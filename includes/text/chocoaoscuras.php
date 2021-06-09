@@ -147,7 +147,7 @@
 </div>
 
 <div class="pd-container">
-    <div class="col-md-12 text-center">
+    <div class="col-md-12 text-center" id="TEXT">
         <p class="long-text" style="text-align: justify;">
             Ocho caseríos de Nóvita sufren para acceder al servicio de energía eléctrica. Su caso no es aislado: es solo un ejemplo entre las muchas zonas remotas del Chocó, donde más de 50 mil habitantes no tienen acceso a la interconexión. Recorrido por un paisaje de abandono estatal y aislamiento que mantiene al departamento más pobre del país en medio del atraso.
         </p>
@@ -300,13 +300,21 @@
         <br><br>
         Desde hace años los subsidios para las zonas no interconectadas se han incrementado progresivamente. Mientras en 2014 fueron 227 mil millones de pesos, en 2018 alcanzaron hasta 288 mil millones y en 2019 fueron algo más de 250 mil millones. Las fluctuaciones varían según aumenta o baja el costo de los combustibles y también cuando algunas localidades dejan de recibir subsidios porque logran la interconexión con el sistema nacional. Sipí, en el Chocó, fue la última de ellas: el municipio se conectó tras varios años de retraso con una línea que bordea el río San Juan desde Istmina hasta San Miguel.
         <br><br>
+        “Uno con el desespero de que las cosas le lleguen a la comunidad, se veían muy bonitas, bien pintaditas, creíamos que eran nuevas”, asegura Rogelio Asprilla, concejal del municipio de Nóvita y habitante de Urábara que conoció el proceso de instalación. “Pero cuando las fuimos usando vimos que no eran de primera”. La planta de Urábara operó cuatro meses, según explicó Ambrosio Hurtado, uno de los vecinos que trató de repararla. La planta instalada en la comunidad Sin Olvido funcionó tres meses y luego fue “un daño tras otro”, según dice Ana Hurtado Mosquera, una de las habitantes. Harold Fernando Sánchez, presidente del consejo comunitario del caserío Cocotea, confirmó a su vez que la planta instalada en su vereda sólo funcionó dos meses.
+        <br>
+        <br>
+        </p>
+    <br>
+        <div class="col-md-12 text-center">
+            <div class="scroll_down">
+            <a href="#TEXT"><img src="images/scroll.png" alt=""></a>
+                <h4>Volver Arriba</h4>
+            </div>
+        </div>
     </div>
-        </p><br>
 
     <div class="col-md-6">
         <p class="long-text">
-        “Uno con el desespero de que las cosas le lleguen a la comunidad, se veían muy bonitas, bien pintaditas, creíamos que eran nuevas”, asegura Rogelio Asprilla, concejal del municipio de Nóvita y habitante de Urábara que conoció el proceso de instalación. “Pero cuando las fuimos usando vimos que no eran de primera”. La planta de Urábara operó cuatro meses, según explicó Ambrosio Hurtado, uno de los vecinos que trató de repararla. La planta instalada en la comunidad Sin Olvido funcionó tres meses y luego fue “un daño tras otro”, según dice Ana Hurtado Mosquera, una de las habitantes. Harold Fernando Sánchez, presidente del consejo comunitario del caserío Cocotea, confirmó a su vez que la planta instalada en su vereda sólo funcionó dos meses.
-        <br><br>
         Además, hubo inconsistencias con los despachos de ACPM para las plantas. Enerpacific interrumpió los envíos entre marzo y noviembre de 2020, pero Minenergía pagaba sus giros habituales.
         <br><br>
         </p><br>

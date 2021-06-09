@@ -10,7 +10,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="" href="#"><img src="images/especialesblanco-1.png" alt="" width="100px"></a>
+                    <a class="" href="#"><img src="images/logo_wb.png" alt="" width="200px"></a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
