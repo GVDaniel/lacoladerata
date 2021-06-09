@@ -2,7 +2,7 @@ body{
 	font-family: 'Dosis', sans-serif;
 }
 p{
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 }
 a{
 	font-family: monospace;
@@ -11,6 +11,12 @@ a{
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Montserrat';
 }
+
+.pd-container {
+	padding-right: 80px;
+	padding-left: 80px;
+}
+
 .post_title {
 	text-shadow: 10px 10px 3px #FFA798; 
 	font-size:100px !important;
@@ -18,10 +24,6 @@ h1, h2, h3, h4, h5, h6{
 .post_subtitle {
 	font-size: 22px; 
 	font-family: monospace; color: black;
-}
-.container-text {
-    padding-right: 150px;
-    padding-left: 150px;
 }
 .carousel-indicators li {
     border: 2px solid #000 !important;
@@ -41,14 +43,14 @@ font-family: monospace;
     bottom: 28px;
     left: 15px;
 }
-@media (min-width:1200px) {
-	.container-text {
+@media (max-width:1200px) {
+	.pd-container {
 		padding-right: 150px;
 		padding-left: 150px;
 	}
 	.post_title {
 		text-shadow: 10px 10px 3px #FFA798; 
-		font-size:30px !important;
+		font-size:30px;
 	}
 	.post_subtitle {
 		font-size: 12px; 
@@ -56,22 +58,22 @@ font-family: monospace;
 	}
 }
 
-@media (min-width:768px) {
+@media (max-width:768px) {
 	.navbar-default .navbar-nav>li>a {
 		
 		background-color: transparent;
 	}
 
-	.container-text {
-		padding-right: 5px !important;
-		padding-left: 5px !important;
+	.pd-container {
+		padding-right: 5px;
+		padding-left: 5px;
 	}
 }
 
-@media (min-width:358px) {
+@media (max-width:358px) {
 	.post_title {
 		text-shadow: 3px 3px 3px #FFA798; 
-		font-size:30px !important;
+		font-size:30px;
 	}
 	.post_subtitle {
 		font-size: 12px; 
@@ -81,9 +83,9 @@ font-family: monospace;
 		background-color: transparent;
 	}
 
-	.container-text {
-		padding-right: 15px !important;
-		padding-left: 15px !important;
+	.pd-container {
+		padding-right: 15px;
+		padding-left: 15px;
 	}
 }
 .navbar-default .navbar-nav>li>a:hover{
@@ -96,10 +98,9 @@ font-family: monospace;
 }
 
 #header_common{
-	background-size: cover;
-	background-repeat: no-repeat;
-	height: 400px;
-	/* background: url(../images/header_bg.jpg); */
+	background: url(../images/aoscuras.png);
+    background-size: cover;
+	height: 900px;
 }
 .section_overlay{
 	background: rgba(250,250,250, .5);
@@ -115,16 +116,15 @@ font-family: monospace;
 	font-size: 40px;
 	text-transform: uppercase;
 }
-.home_text p{
+.home_text > p{
 	color: #404040;
 	font-size: 14px;
 	text-transform: uppercase;
 }
-.home_text img{}
 .scroll_down{
 	padding-bottom: 50px;
 }
-.scroll_down h4{
+.scroll_down > h4{
 	font-size: 12px;
 	color: #000;
 	font-family: 'Montserrat', sans-serif;
@@ -189,6 +189,7 @@ background-color: #2d3334;
 	margin-bottom: 10px;
 	line-height: 1.5;
 	text-align: justify;
+	padding: 20px;
 }
 .long-text-img{
 	width: 100%;
@@ -220,9 +221,6 @@ background-color: #2d3334;
 .testimonial{
 		padding-top: 130px;
 	padding-bottom: 80px;
-}
-.testimonial{
-
 }
 .testimonial .icon:after{
 	content: "";
@@ -371,7 +369,6 @@ font-family: monospace;
 	padding-left: 0px;
 	padding-right: 0px;
 }
-.work_title{}
 .work_title h1, .contact_title h1{
 	font-size: 25px;
 	color: #3d3d3d;
@@ -491,8 +488,6 @@ footer{
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
-.footer_logo{}
-.footer_logo img{}
 .social{
 	padding-top: 65px;
 }
@@ -545,7 +540,10 @@ letter-spacing: 0px;
 	text-decoration:none;
 }
 .underline {
-	background-color: yellow;
-    padding: 15px;
+	padding: 15px;
     border-bottom-right-radius: 20px;
+    font-style: italic;
+    font-weight: bold;
+	text-shadow: 4px 4px 3px #bde4e6; 
+	font-size: 30px;
 }

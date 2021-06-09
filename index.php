@@ -29,7 +29,6 @@
             </div>
         </div>
     </section>
-    
 
     <section class="work_area" id="WORK">
         <div class="container">

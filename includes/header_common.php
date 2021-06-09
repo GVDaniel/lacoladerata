@@ -1,4 +1,4 @@
-<header id="header_common" style="background-position: 50% -125px;">
+<header id="header_common">
         <div style="height: 800px;">
             <nav class="navbar navbar-default navbar-fixed-top" style="background-color: #FFA798; padding-top: 20px; padding-bottom: 20px">
                 <div class="container">
