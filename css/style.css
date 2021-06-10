@@ -91,13 +91,19 @@ h1, h2, h3, h4, h5, h6{
 	color: #9FF4A5;
 }
 #header_home{
-	background-size: cover;
+	background-size: cover !important;
 	background-repeat: no-repeat;
-	background: url(../images/header_bg.jpg);
+	background: url(../images/portada_choco.gif);
 }
 
 #header_common{
 	background: url(../images/aoscuras.png);
+    background-size: cover;
+	height: 900px;
+}
+
+#header_penitas{
+	background: url(../images/penitas.png);
     background-size: cover;
 	height: 900px;
 }

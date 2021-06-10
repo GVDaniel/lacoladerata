@@ -36,8 +36,8 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="copyright_text   wow fadeInUp animated">
-                        <p style="color: white;">&copy; lacoladerata 2021. Todos los derechos reservados por <a href="http://www.cosmoscoders.com" target="_blank" style="color: #9FF4A5;">COSMOS CODERS</a></p>
-                        <p style="color: white;">Hecho con amor por gente creativa.</p>
+                        <p style="color: white;">&copy; lacoladerata 2021. Todos los derechos reservados</p>
+                        <p style="color: white;">Hecho con amor por <a href="http://www.cosmoscoders.com" target="_blank" style="color: #9FF4A5;">COSMOS CODERS</a>.</p>
                     </div>
                 </div>
             </div>
