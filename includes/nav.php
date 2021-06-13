@@ -15,11 +15,11 @@
             <ul class="nav navbar-nav navbar-right">
             <li><a href="index.php">Inicio</a></li>
             <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menú<span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Reportajes<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                 <li><a href="#HOME"></li>
                 <li><a href="chocoaoscuras.php">Chocó a oscuras</a></li>
-                <li><a href="efermar.php">Enfermar en el río San Juan</a></li>
+                <li><a href="enfermar.php">Enfermar en el río San Juan</a></li>
                 <!-- <li><a href="clanes.php">Clanes</a></li>
                 <li><a href="educacion.php">Educación</a></li> -->
                 <li><a href="penitas.php">Retorno sin garantias</a></li>

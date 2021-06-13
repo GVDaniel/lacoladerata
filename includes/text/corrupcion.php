@@ -1,5 +1,5 @@
 <div class="col-md-12">
-    <div class="video text-center" style="padding: 70px; background-color: #ffc857;">
+    <div class="gallery text-center">
 
     <!-- Carousel container -->
     <div id="fotos_choco" class="carousel slide" data-ride="carousel" style="width:100%;margin:auto; text-align: center;">

@@ -1,11 +1,11 @@
 <div class="col-md-12">
-    <div class="video text-center" style="padding: 70px; background-color: #bde4e6;">
-        <iframe width="90%" style="-webkit-box-shadow: 9px 10px 15px 5px rgba(0,0,0,0.31); box-shadow: 9px 10px 15px 5px rgba(0,0,0,0.31);" height="600" src="https://www.youtube.com/embed/Ly5G-21hUeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    <div class="video text-center">
+        <iframe width="90%" style="-webkit-box-shadow: 9px 10px 15px 5px rgba(0,0,0,0.31); box-shadow: 9px 10px 15px 5px rgba(0,0,0,0.31);" src="https://www.youtube.com/embed/Ly5G-21hUeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
     </div>
 </div>
 
 <div class="col-md-12">
-    <div class="video text-center" style="padding: 70px; background-color: #ffc857;">
+    <div class="gallery text-center">
 
     <!-- Carousel container -->
     <div id="fotos_choco" class="carousel slide" data-ride="carousel" style="width:100%;margin:auto; text-align: center;">
@@ -144,14 +144,14 @@
 
     </div>
     </div>
+    <div class="parallax"></div>
 </div>
-
 <div class="pd-container">
     <div class="col-md-12 text-center" id="TEXT">
         <p class="long-text" style="text-align: justify;">
             Ocho caseríos de Nóvita sufren para acceder al servicio de energía eléctrica. Su caso no es aislado: es solo un ejemplo entre las muchas zonas remotas del Chocó, donde más de 50 mil habitantes no tienen acceso a la interconexión. Recorrido por un paisaje de abandono estatal y aislamiento que mantiene al departamento más pobre del país en medio del atraso.
         </p>
-        <h1 class="underline" style="font-size: 40px;">El problema de los territorios no interconectados</h1>
+        <h1 class="underline">El problema de los territorios no interconectados</h1>
     </div>
     <div class="col-md-6">
         <p class="long-text">
@@ -273,7 +273,7 @@
             </div>
 
         </div>
-
+        
         <p class="long-text">
         Pero la comunidad asegura que estos recursos no se vieron reflejados en lo que ellos llaman “un servicio aceptable”. Aunque Enerpacific comenzó a recibir giros por la prestación de servicio en la región del Alto Tamaná desde enero de 2019, las plantas sólo llegaron a la zona en noviembre de ese año, porque el transporte debía hacerse en canoas por el río y los contratistas argumentan que el nivel del agua no permitía la entrada de las embarcaciones. Una vez en funcionamiento, las plantas comenzaron a fallar y a presentar múltiples problemas.
         </p>
@@ -571,3 +571,18 @@
     </p>
     </div>
 </div>
+<style>
+.parallax {
+  /* The image used */
+  background-image: url("./images/casa_azul.png");
+
+  /* Set a specific height */
+  height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>

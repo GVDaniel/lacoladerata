@@ -20,125 +20,46 @@
         <li data-target="#fotos_choco" data-slide-to="6"></li>
         <li data-target="#fotos_choco" data-slide-to="7"></li>
         <li data-target="#fotos_choco" data-slide-to="8"></li>
-        <li data-target="#fotos_choco" data-slide-to="9"></li>
-        <li data-target="#fotos_choco" data-slide-to="10"></li>
-        <li data-target="#fotos_choco" data-slide-to="11"></li>
-        <li data-target="#fotos_choco" data-slide-to="12"></li>
     </ol>
 
     <!-- Content -->
     <div class="carousel-inner" role="listbox">
 
         <div class="item active">
-            <img src="./images/especial1/fotos/1.jpg" alt="Rio Ingará, San José del Palmar">
-            <div class="carousel-caption">
-                <h3>Rio Ingará, San José del Palmar</h3>
-                <p>La geografía chocoana es abrupta y a muchos caseríos solo se llega por ríos o por trochas entre la selva</p>
-            </div>
+            <img src="./images/carreteras/fotos/1.jpg" alt="Rio Ingará, San José del Palmar">
         </div>
 
         <div class="item">
-            <img src="./images/especial1/fotos/2.jpg" alt="Casa chocoana">
-            <div class="carousel-caption">
-                <h3>Casa chocoana</h3>
-                <p>Según Planeación Nacional, la pobreza multidimensional afecta al 70% de la población del departamento y en algunos municipios alcanza el 90%</p>
-            </div>
+            <img src="./images/carreteras/fotos/2.jpg" alt="Casa chocoana">
         </div>
 
         <div class="item">
-            <img src="./images/especial1/fotos/3.jpg" alt="Santa María de Urábara">
-            <div class="carousel-caption">
-                <h3>Santa María de Urábara</h3>
-                <p>Es un corregimiento de Nóvita en las selvas del Alto Tamaná</p>
-            </div>
+            <img src="./images/carreteras/fotos/3.jpg" alt="Santa María de Urábara">
         </div>
 
         <div class="item">
-            <img src="./images/especial1/fotos/4.jpg" alt="Máquina de Enerpacific SAS">
-            <div class="carousel-caption">
-                <h3>Máquina de Enerpacific SAS</h3>
-                <p>ENERPACIFIC SAS instaló 8 plantas eléctricas en la región, sin embargo las fallas en el servicio son constantes</p>
-            </div>
+            <img src="./images/carreteras/fotos/4.jpg" alt="Máquina de Enerpacific SAS">
         </div>
 
         <div class="item">
-            <img src="./images/especial1/fotos/5.jpg" alt="Casa de Madera en Urábara">
-            <div class="carousel-caption">
-                <h3>Casa de Madera en Urábara</h3>
-            </div>
+            <img src="./images/carreteras/fotos/5.jpg" alt="Casa de Madera en Urábara">
         </div>
 
         <div class="item">
-            <img src="./images/especial1/fotos/6.jpg" alt="Gissela sonríe en las penumbras de una casa">
-            <div class="carousel-caption">
-                <h4>Gissela sonríe en las penumbras de una casa</h4>
-            </div>
+            <img src="./images/carreteras/fotos/6.jpg" alt="Gissela sonríe en las penumbras de una casa">
         </div>
 
         <div class="item">
-            <img src="./images/especial1/fotos/7.jpg" alt="Vivienda sin energía">
-            <div class="carousel-caption">
-                <h3>Vivienda sin energía</h3>
-                <p>Algunos habitantes han comprado páneles solares o plantas de gasolina</p>
-            </div>
+            <img src="./images/carreteras/fotos/7.jpg" alt="Vivienda sin energía">
         </div>
 
         <div class="item">
-            <img src="./images/especial1/fotos/8.jpg" alt="En Urábara no hay servicios básicos">
-            <div class="carousel-caption">
-                <h3>En Urábara no hay servicios básicos</h3>
-                <p>No cuentan con puesto de salud, ni agua potable, ni acceso a la energía eléctrica</p>
-            </div>
+            <img src="./images/carreteras/fotos/8.jpg" alt="En Urábara no hay servicios básicos">
         </div>
 
         <div class="item">
-            <img src="./images/especial1/fotos/9.jpg" alt="Niño">
+            <img src="./images/carreteras/fotos/9.jpg" alt="Niño">
         </div>
-
-        <div class="item">
-            <img src="./images/especial1/fotos/10.jpg" alt="">
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/fotos/11.jpg" alt="">
-            <div class="carousel-caption">
-                <h3>Iglesia</h3>
-                <p>El culto en la iglesia pentecostal de Urábara se hace a oscuras</p>
-            </div>
-        </div>
-        
-        <div class="item">
-            <img src="./images/especial1/fotos/12.jpg" alt="">
-            <div class="carousel-caption">
-                <p>Los habitantes no pueden tener neveras para conservar los alimentos</p>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/fotos/13.jpg" alt="">
-            <div class="carousel-caption">
-                <p>"Somos los más olvidados por el estado", dice Santos Lemus, lider local</p>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/fotos/14.jpg" alt="Orillas del río Tamaná">
-            <div class="carousel-caption">
-                <h3>Orillas del río Tamaná</h3>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/fotos/15.jpg" alt="">
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/fotos/16.jpg" alt="Camino de herradura">
-            <div class="carousel-caption">
-                <h3>Camino de herradura</h3>
-            </div>
-        </div>
-
 
     </div>
 

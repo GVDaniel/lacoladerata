@@ -5,13 +5,13 @@
                 <div class="col-md-6 text-center">
                     <div class="footer_logo   wow fadeInUp animated">
                         <h4 style="color: white; font-family:'Montserrat'"><b>Con el apoyo de:</b><br> Open Society Foundation</h4>
-                    <img src="images/opensocietylogo.png" alt="" style="width:150px;"> 
+                    <!-- <img src="images/opensocietylogo.png" alt="" style="width:150px;">  -->
                     </div>
                 </div>
                 <div class="col-md-6 text-center">
                     <div class="footer_logo   wow fadeInUp animated">
                         <h4 style="color: white; font-family:'Montserrat'"><b> Un proyecto de:</b><br> La Cola de Rata (el logo de la rata en nombre)</h4>
-                        <img src="images/logo_wb.png" alt="" style="width:150px;"> 
+                        <!-- <img src="images/logo_wb.png" alt="" style="width:150px;">  -->
                     </div>
                 </div>
             </div>

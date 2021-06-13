@@ -19,7 +19,11 @@ h1, h2, h3, h4, h5, h6{
 
 .post_title {
 	text-shadow: 10px 10px 3px #FFA798; 
-	font-size:100px !important;
+	font-size:100px;
+	color: #010101; 
+	font-weight: bold; 
+	font-style: italic; 
+	text-transform: uppercase;
 }
 .post_subtitle {
 	font-size: 22px; 
@@ -27,6 +31,18 @@ h1, h2, h3, h4, h5, h6{
 }
 .carousel-indicators li {
     border: 2px solid #000 !important;
+}
+.home_title {
+	text-shadow: 10px 10px 3px #FFA798; 
+	font-size:100px;
+	font-family: 'Montserrat';
+	font-weight: bold;
+    font-style: italic;
+}
+.home_subtitle {
+	font-size: 35px;
+	font-family: monospace; 
+	color: black;
 }
 
 /*Header*/
@@ -42,7 +58,57 @@ h1, h2, h3, h4, h5, h6{
     bottom: 28px;
     left: 15px;
 }
+.home_title_project {
+	font-family: 'Montserrat';
+	text-shadow: 2px 2px 1px #ffa798;
+	font-weight: bold;
+	font-size: 25px;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+.home_description_project {
+	color: #fff;
+    font-size: 14px;
+    font-family: monospace;
+}
+.video {
+	padding: 70px;
+	background-color: #bde4e6;
+}
+.gallery {
+	padding: 70px;
+	background-color: #ffc857;
+}
+.video > iframe {
+	height: 700px;
+}
 @media (max-width:1200px) {
+	.home_title {
+		text-shadow: 3px 3px 3px #FFA798; 
+		font-size:60px;
+		padding-top: 150px;
+	}
+	.home_subtitle {
+		font-size: 16px;
+		font-family: monospace; 
+		color: #dedede;
+		font-weight: bold;
+	}
+	.home_title_project {
+		font-family: 'Montserrat';
+		text-shadow: 2px 2px 1px #ffa798;
+		font-weight: bold;
+		font-size: 15px;
+		color: #fff;
+		text-transform: uppercase;
+		letter-spacing: 3px;
+	}
+	.home_description_project {
+		color: #fff;
+		font-size: 11px;
+		font-family: monospace;
+	}
 	.pd-container {
 		padding-right: 150px;
 		padding-left: 150px;
@@ -50,6 +116,10 @@ h1, h2, h3, h4, h5, h6{
 	.post_title {
 		text-shadow: 10px 10px 3px #FFA798; 
 		font-size:30px;
+		color: #010101; 
+		font-weight: bold; 
+		font-style: italic; 
+		text-transform: uppercase;
 	}
 	.post_subtitle {
 		font-size: 12px; 
@@ -67,12 +137,82 @@ h1, h2, h3, h4, h5, h6{
 		padding-right: 5px;
 		padding-left: 5px;
 	}
+	.home_title {
+		text-shadow: 3px 3px 3px #FFA798; 
+		font-size:60px;
+		padding-top: 150px;
+	}
+	.home_subtitle {
+		font-size: 16px;
+		font-family: monospace; 
+		color: #dedede;
+		font-weight: bold;
+	}
+	.home_title_project {
+		font-family: 'Montserrat';
+		text-shadow: 2px 2px 1px #ffa798;
+		font-weight: bold;
+		font-size: 15px;
+		color: #fff;
+		text-transform: uppercase;
+		letter-spacing: 3px;
+	}
+	.home_description_project {
+		color: #fff;
+		font-size: 11px;
+		font-family: monospace;
+	}
 }
 
-@media (max-width:358px) {
+@media (max-width:368px) {
+	#header_common{
+		height: 300px !important;
+	}
+	#header_penitas{
+		height: 300px !important;
+	}
+	
+	#header_carreteras{
+		height: 300px !important;
+	}
+	#header_corrupcion{
+		height: 300px !important;
+	}
+	#header_comic{
+		height: 300px !important;
+	}
+	.home_title {
+		text-shadow: 3px 3px 3px #FFA798; 
+		font-size:60px;
+		padding-top: 150px;
+	}
+	.home_subtitle {
+		font-size: 16px;
+		font-family: monospace; 
+		color: #dedede;
+		font-weight: bold;
+	}
+	.home_title_project {
+		font-family: 'Montserrat';
+		text-shadow: 2px 2px 1px #ffa798;
+		font-weight: bold;
+		font-size: 15px;
+		color: #fff;
+		text-transform: uppercase;
+		letter-spacing: 3px;
+	}
+	.home_description_project {
+		color: #fff;
+		font-size: 11px;
+		font-family: monospace;
+	}
 	.post_title {
 		text-shadow: 3px 3px 3px #FFA798; 
 		font-size:30px;
+		color: #010101; 
+		font-weight: bold; 
+		font-style: italic; 
+		text-transform: uppercase;
 	}
 	.post_subtitle {
 		font-size: 12px; 
@@ -86,14 +226,26 @@ h1, h2, h3, h4, h5, h6{
 		padding-right: 15px;
 		padding-left: 15px;
 	}
-}
-.navbar-default .navbar-nav>li>a:hover{
+	.navbar-default .navbar-nav>li>a:hover{
 	color: #9FF4A5;
+	}
+	.video {
+		padding: 5px;
+	}
+	.video > iframe {
+		height: 300px;
+	}
+	.gallery {
+		padding: 5px;
+	}
+	.underline {
+		font-size: 16px !important;
+	}
 }
 #header_home{
 	background-size: cover !important;
 	background-repeat: no-repeat;
-	background: url(../images/portada_choco.gif);
+	background: url(../images/portada-choco.gif);
 }
 
 #header_common{
@@ -116,6 +268,12 @@ h1, h2, h3, h4, h5, h6{
 
 #header_corrupcion{
 	background: url(../images/entrevista.png);
+    background-size: cover;
+	height: 900px;
+}
+
+#header_comic{
+	background: url(../images/comic.png);
     background-size: cover;
 	height: 900px;
 }
@@ -562,5 +720,5 @@ letter-spacing: 0px;
     font-style: italic;
     font-weight: bold;
 	text-shadow: 4px 4px 3px #bde4e6; 
-	font-size: 30px;
+	font-size: 20px;
 }

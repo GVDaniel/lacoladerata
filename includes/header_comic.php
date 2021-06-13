@@ -1,4 +1,4 @@
-<header id="header_carreteras">
+<header id="header_comic">
         <div style="height: auto;">
         <?php include 'includes/nav.php'; ?>
             <div class="container">

@@ -1,11 +1,11 @@
 <div class="col-md-12">
-    <div class="video text-center" style="padding: 70px; background-color: #bde4e6;">
-      <iframe class="youtube-player" width="90%" height="659" src="https://www.youtube.com/embed/JMFxPPvIk7I?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=es-ES&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+    <div class="video text-center">
+      <iframe class="youtube-player" width="90%" src="https://www.youtube.com/embed/JMFxPPvIk7I?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=es-ES&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
     </div>
 </div>
 
 <div class="col-md-12">
-    <div class="video text-center" style="padding: 70px; background-color: #ffc857;">
+    <div class="gallery text-center">
 
     <!-- Carousel container -->
     <div id="fotos_choco" class="carousel slide" data-ride="carousel" style="width:100%;margin:auto; text-align: center;">
@@ -110,7 +110,7 @@
         <p class="long-text" style="text-align: justify; font-style: italic;">
             “…lo que nosotros queremos es que nos traigan educación, salud, saneamiento básico, que es lo que realmente las comunidades quieren y necesitan”, dice Amparo Murillo, líder chocoana.
         </p>
-        <h1 class="underline" style="font-size: 40px;">El problema de los territorios no interconectados</h1>
+        <h1 class="underline">El problema de los territorios no interconectados</h1>
     </div>
     <div class="col-md-6">
         <p class="long-text">
@@ -145,8 +145,7 @@
 
     <div class="col-md-6">
         <p class="long-text">
-        <h1 class="underline">CHARAMBIRÁ: OTRA COMUNIDAD EN RIESGO</h1>
-             <br><br>
+            <h1 class="underline">CHARAMBIRÁ: OTRA COMUNIDAD EN RIESGO</h1>
             Tres semanas después del retorno a Peñitas ocurrió un nuevo desplazamiento masivo en la comunidad de Charambirá y Los Esteros. Charambirá es un caserío de pescadores próximo al mar, sobre un brazo del San Juan que se desprende varios kilómetros antes de Docordó formando una de las siete bocas del río en su desembocadura al Pacífico.
             <br><br>
             “El 13 de enero llegaron a matar a una persona cerca, luego se fueron a meter donde estábamos nosotros, entonces ahí fue que los cogieron a todos ellos [los pescadores]”, dice una de las vecinas que prefiere no ser grabada ni fotografiada. Una banda paramilitar amenazó a los pobladores, les prohibió salir a las faenas del mar y ocupar ciertas zonas de la playa. 18 familias se desplazaron a Docordó, 11 más a Buenaventura, en donde aún permanecen.

@@ -15,7 +15,7 @@
                     <div class="col-md-12 text-center">
                     </div>
                 </div>
-            </div>            
+            </div>               
         </div>  
     </section>         
 </header>
