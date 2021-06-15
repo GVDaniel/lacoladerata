@@ -75,7 +75,7 @@
 <div class="pd-container">
     <div class="col-md-6">
     <br><br><br>
-        <p class="long_text">
+        <p class="long-text">
             Pedro Nel Caicedo podría estar vivo, empujando su canoa y rozando su platanera, si no hubiera nacido en Cocové, una aldea de veinte casas sobre el barranco en la margen derecha del río San Juan. Pedro Nel presentó síntomas de problemas cerebrales que jamás pudo tratarse: el hospital más cercano a Cocové es el Eduardo Santos de Istmina, una ciudad a cinco horas en lancha rápida río arriba. El pasaje en la línea que hace el recorrido todos los días oscila entre los 80.000 y 100.000 pesos. En bote particular este costo se triplica.
             “Voy a ir a cazar”, dijo antes de salir machete en mano, o al menos eso recuerda su vecino Ismael Caicedo. Dos días más tarde encontraron su cadáver en el monte, como si se hubiera desvanecido de repente. El caso de Pedro Nel ocurrió a finales del 2020 y es muy similar al de Fabián Torres López, otro campesino que perdió el conocimiento por alguna dolencia no determinada. Sus familiares lo llevaron en un bote particular hasta Noanamá, corregimiento del Medio San Juan, donde la hermana Carmen Palacios –una monja octogenaria famosa en la región– iba a prestarle los primeros auxilios. No alcanzó a llegar: de allí se devolvieron con él muerto.
             Los dramas de Fabián y Pedro Nel no son una excepción en los ríos del Chocó, donde la cobertura en salud es nula e insuficiente a pesar de que, paradójicamente, la mayoría de los habitantes tienen algún tipo de afiliación al sistema subsidiado. Chocó es el tercer departamento con los peores índices de necesidades básicas insatisfechas en el país, apenas superado por Vichada y Vaupés. Según el DANE, 65 por ciento de la población chocoana no tiene cubierta una o varias necesidades básicas como el acceso a servicios públicos o vivienda, mientras que el promedio nacional es del 14 por ciento. El departamento sólo cuenta con un hospital de mediana complejidad: el San Francisco de Asís, ubicado en su capital, Quibdó. Hay hospitales públicos de primer nivel en Tadó, Istmina y Riosucio, todos con graves problemas presupuestales.
@@ -94,16 +94,14 @@
 
     <div class="col-md-6">
     <br><br><br>
-        <p class="long_text">
+        <p class="long-text">
             Esto fue comprobado por nuestro equipo periodístico en un recorrido por los caseríos, donde es evidente el abandono absoluto de los centros de salud de Negría, Potedó, Puerto Murillo, Trapiche, Panamacito, Primavera y Copomá. En la comunidad de La Unión existe una infraestructura aún inacabada que ha sido construida completamente con recursos propios de los habitantes, no obstante, ni siquiera tienen un auxiliar de enfermería. Tan sólo en Noanamá y Palestina existen centro de salud con capacidad para primeros auxilios y enfermedades de baja complejidad, y únicamente el de Palestina, corregimiento del Litoral del San Juan, ofrece consulta médica. 
             Según el informe financiero, la depreciación acumulada en infraestructura del hospital Eduardo Santos sería de 191.450.000 pesos, tan sólo para el año 2019, pérdidas que se reflejan en el deterioro de los edificios y centros de salud a su cargo en el río.
             Durante 2020 el departamento del Chocó manejó un presupuesto de 34 mil millones para salud, buena parte del cual iba destinado a subsidiar usuarios a través de la atención de Empresas Prestadoras privadas que, no obstante, no realizan inversiones en la región y tienen sus clínicas en otras zonas del país, lo que encarece el servicio por los traslados y costos añadidos. Para tener un punto de comparación, podría tomarse como referente a Risaralda, un departamento que tiene el doble de población y destinó tres veces más recursos en salud durante el mismo periodo.
             En auditorías realizadas en 2018 por la Contraloría se ha evidenciado una práctica sistemática de “falta de gestión y planeación de los recursos para la población pobre no asegurada y la gestión documental” que conlleva a que los informes presupuestales “no se ajustan a la realidad”. 
-            <br><br>
         </p>
-            <iframe id="iframepdf" src="./images/enfermar/documentos/ac_sgp_choco.pdf" width="100%" height="600px"></iframe>
-        <p class="log_text">    
-            <br><br>
+        <iframe id="iframepdf" src="./images/enfermar/documentos/ac_sgp_choco.pdf" width="100%" height="600px"></iframe>
+        <p class="long-text">    
             Las alcaldías locales, con facultades para invertir recursos propios, no lo hacen argumentando déficit heredados. Intentamos obtener información de las administraciones municipales de Istmina, Medio San Juan y Litoral del San Juan a través de derechos de petición, pero estos nunca fueron atendidos. Igualmente, intentamos contactar a Irina Ballesteros, gerente del hospital de Istmina, el único público de la región, pero no contestó nuestras llamadas y mensajes.
             A través de los Planes de Desarrollo con Enfoque Territorial (PDET), formulados después de los acuerdos de paz de La Habana, las comunidades plantearon la necesidad de infraestructura en salud y de lanchas ambulancias que pudieran sacar los pacientes más graves del río, según le explicó a este medio Felipe Martínez, representante del Consejo Comunitario General del San Juan, la mayor organización afrocolombiana de la zona.
         </p>

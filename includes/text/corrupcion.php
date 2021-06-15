@@ -62,6 +62,10 @@
         <h1 class="title_post">Por fin van a terminar las carreteras al Chocó…</h1>
     </div>
     <div class="col-md-6">
+    <h1 class="questions"> ¿Cuando alguien tiene una complicación medianamente grave corre riesgo de morir?</h1>
+        <p class="long-text">
+        En Quibdó ya hay algunos especialistas, no es como hace cincuenta años. Pero, aunque hay talento humano, no tienen equipos. Por eso hay tanta remisión y no avanzan los hospitales, porque cuando hay remisiones a Medellín o a Pereira la facturación grande la hacen allá, aquí queda la facturación más pequeña.
+        </p>
         <p class="long-text">
         Van a terminar la vía a Pereira, la de Medellín no, esa requiere una fase adicional para la que no hay recursos. Con la fase cinco, que fue exigencia del paro cívico de 2017, no alcanza para terminar la vía a Medellín. Los comerciantes, los transportadores salieron a protestar y a arriesgar su vida. Un paro cívico en el Chocó es un harakiri: usted hace un paro en Pereira y eso inmediatamente afecta a Manizales, a Armenia, a Cali… Pero aquí en Chocó el que se afecta es usted, es un acto casi heroico.
         </p>
@@ -96,10 +100,6 @@
 
     <div class="col-md-6">
         
-        <h1 class="questions"> ¿Cuando alguien tiene una complicación medianamente grave corre riesgo de morir?</h1>
-        <p class="long-text">
-        En Quibdó ya hay algunos especialistas, no es como hace cincuenta años. Pero, aunque hay talento humano, no tienen equipos. Por eso hay tanta remisión y no avanzan los hospitales, porque cuando hay remisiones a Medellín o a Pereira la facturación grande la hacen allá, aquí queda la facturación más pequeña.
-        </p>
         <h1 class="questions">Es culpa también del modelo…</h1>
         <p class="long-text">
         Claro, la principal culpa es del modelo de salud, de la ley 100, que hace que aumente la desigualdad a nivel nacional.

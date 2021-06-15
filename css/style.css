@@ -281,7 +281,7 @@ h1, h2, h3, h4, h5, h6{
 	background-size: cover !important;
 	background-repeat: no-repeat;
 	background: url(../images/portada-choco.gif);
-	height: 900px;
+	height: 675px;
 }
 
 #header_common{
@@ -402,11 +402,10 @@ background-color: #2d3334;
 	font-size: 24px;
 	font-weight: 100;
 	color: #272727;
-	margin-top: 20px;
-	margin-bottom: 10px;
 	line-height: 1.5;
 	text-align: justify;
-	padding: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 .long-text-img{
 	width: 100%;

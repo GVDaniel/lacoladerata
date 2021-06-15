@@ -68,9 +68,9 @@
                 </div>
                 <div class="col-md-6 no_padding">
                     <div class="single_image">
-                        <img src="images/entrevista.png" alt="">
+                        <img src="images/enfermeria.png" alt="">
                         <div class="image_overlay">
-                        <a href="enfermar.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Entrevista</div></a>
+                        <a href="enfermar.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Reportaje</div></a>
                             <div class="title-bottom">
                             <div class="home_title_project">Enfermar en el río San Juan</div>
                             <div class="home_description_project">
