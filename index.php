@@ -10,8 +10,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="about_title">
-                        <h2> Resumen del Proyecto</h2>
-                        <img src="images/shape.png" alt="">
+                        <h2 style="font-weight: bolder;"> ¿De qué se trata?</h2>
                     </div>
                 </div>
             </div>
@@ -19,18 +18,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4  wow fadeInLeft animated">
-                    <img src="images/ilustracion1.jpg" width="300px">
+                    <img src="images/pies.png" width="300px">
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
                     <p class="about_us_p">
-                        La corrupción es un problema estructural en Colombia que deja a su vez consecuencias desastrosas a lo largo y ancho del país. En regiones más apartadas como el departamento del Chocó su huella es más notable y escandalosa: allí las condiciones de vida están atravesadas por altos índices de pobreza y nula presencia estatal, lo que se traduce en la vulneración de derechos fundamentales como la salud, la educación, los servicios públicos y libre movilidad. 
-                        Aunque cada año se movilizan recursos públicos y apoyos internacionales, el departamento permanece estancado en el atraso. Una región afectada como pocas por el conflicto armado es además espejo de cómo la corrupción impide el desarrollo de la sociedad y amenaza las posibilidades de  vida digna con pleno goce de los derechos humanos para las comunidades.<br><br>
-                        Este especial recorre los ríos, las selvas y los caseríos de una parte crucial del Pacífico colombiano, retratando algunos de los problemas más álgidos de la región. Los casos de la electrificación rural en Nóvita y Riosucio permiten ilustrar el desfalco que operadores locales y nacionales hacen a los subsidios a la energía eléctrica, aprovechando el aislamiento de las comunidades.
+                    La corrupción es un problema estructural en Colombia que deja a su vez consecuencias desastrosas a lo largo y ancho del país. En regiones más apartadas como el departamento del Chocó su huella es más notable y escandalosa: allí las condiciones de vida están atravesadas por altos índices de pobreza y nula presencia estatal, lo que se traduce en la vulneración de derechos fundamentales como la salud, la educación, los servicios públicos y la libre movilidad.<br><br> 
+                    Aunque cada año se destinan recursos públicos y apoyos internacionales, el departamento permanece estancado en el atraso. Una región afectada como pocas por el conflicto armado es además espejo de cómo la corrupción impide el desarrollo de la sociedad y amenaza las posibilidades de vida digna con pleno goce de los derechos humanos para las comunidades.<br><br>
+                    Este especial recorre los ríos, las selvas y los caseríos de una parte crucial del Pacífico colombiano, retratando algunos de los problemas más álgidos de la región. Los casos de la electrificación rural en Nóvita y Riosucio permiten ilustrar el desfalco que operadores locales y nacionales hacen a los subsidios a la energía eléctrica, aprovechando el aislamiento de las comunidades y la poca vigilancia de los organismos de control. 
                     </p>
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
                     <p class="about_us_p">
-                    En un recorrido por el río San Juan, el segundo más importante del departamento, constatamos la inexistente cobertura de los servicios de salud en casi toda esta zona, lo que condena a sus habitantes a enfermar y morir en el olvido. También rastreamos los contratos e inversiones en las dos vías carreteables que comunican al Chocó con el resto del país, licitaciones amañadas y llenas de retrasos e incumplimientos. En Peñitas, una pequeña comunidad del Litoral del San Juan, evidenciamos el abandono oficial que obliga a los pobladores a quedarse a merced de los grupos armados legales e ilegales. También conversamos con el veterano reportero y líder cívico Jorge Salgado, para entender cómo funcionan los entramados corruptos en el departamento. El manejo politiquero del departamento quedó en evidencia a través del seguimiento de uno de las clanes familiares representativo de la manera de construir ciudadanía desde un falso ejercicio democrático. Finalmente, a través de un webcómic, narramos las dificultades para acceder a la educación en caseríos del norte de Quibdó, Istmina y lugares apartados del río San Juan, reflejadas en infraestructuras deterioradas o construcciones nunca terminadas que determinan un detrimento al patrimonio público nacional.
+                    En un recorrido por el río San Juan, el segundo más importante del departamento, constatamos la inexistente cobertura de los servicios de salud en casi toda esta zona, lo que condena a sus habitantes a enfermar y morir en el olvido.
+                    <br><br>
+                    Rastreamos los contratos e inversiones en las dos carreteras que comunican al Chocó con el resto del país, licitaciones que terminaron amañadas y llenas de retrasos e incumplimientos. En Peñitas, una pequeña comunidad del Litoral del San Juan, evidenciamos el abandono oficial que obliga a los pobladores a vivir a merced de los grupos armados legales e ilegales. También conversamos con el veterano reportero y líder cívico Jorge Salgado, para entender cómo funcionan los entramados corruptos en el departamento, entramado que se pone en evidencia a través del seguimiento de uno de los clanes políticos más representativos de la manera de engañar a la ciudadanía desde un falso ejercicio democrático. 
+                    <br><br>
+                    Finalmente, a través de un webcómic, narramos las dificultades para acceder a la educación en caseríos del norte de Quibdó, Istmina y lugares apartados del río San Juan, reflejadas en infraestructuras deterioradas o construcciones nunca terminadas que determinan un detrimento al patrimonio público nacional.
                     </p>
                 </div>
             </div>
@@ -42,9 +45,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="work_title  wow fadeInUp animated">
-                        <h1>Especiales</h1>
-                        <img src="images/shape.png" alt="">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
+                        <h1 style="padding-bottom: 30px; font-weight:bolder;">Reportajes</h1>
                     </div>
                 </div>
             </div>
@@ -73,8 +74,7 @@
                             <div class="title-bottom">
                             <div class="home_title_project">Enfermar en el río San Juan</div>
                             <div class="home_description_project">
-                                 “…lo que nosotros queremos es que nos traigan educación, salud, saneamiento básico, que es lo que realmente las comunidades quieren y necesitan”, dice Amparo Murillo, líder chocoana.
-                            </div>
+                            En la región del río San Juan, comprendida por los municipios de Tadó, Istmina, Medio San Juan, Sipí y Litoral del San Juan la cobertura en salud es nula e insuficiente, allí se evidencian los malos manejos administrativos y la destrucción de la poca infraestructura sanitaria que existía.                            </div>
                             </div>
                         </div>
                     </div>
@@ -101,12 +101,11 @@
                     <div class="single_image">
                         <img src="images/penitas.png" alt="">
                         <div class="image_overlay">
-                        <a href="chocoaoscuras.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Entrevista</div></a>
+                        <a href="chocoaoscuras.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Reportaje</div></a>
                             <div class="title-bottom">
                                 <div class="home_title_project">PEÑITAS Y CARAMBIRÁ</div>
                                 <div class="home_description_project">
-                                 “…lo que nosotros queremos es que nos traigan educación, salud, saneamiento básico, que es lo que realmente las comunidades quieren y necesitan”, dice Amparo Murillo, líder chocoana.                                
-                                </div>
+                                Estas comunidades que han vivido en medio de enfrentamientos entre el Ejército colombiano y grupos armados ilegales, no tienen garantías para retornar. Pese a que existe una Ley de víctimas (1448 de 2011) que aplica a sus situaciones, lo único que hace el gobierno nacional es militarizar más la región.                                </div>
                             </div>
                         </div>
                     </div>
@@ -115,12 +114,11 @@
                     <div class="single_image">
                         <img src="images/carreteras.png" alt="">
                         <div class="image_overlay">
-                        <a href="chocoaoscuras.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Entrevista</div></a>
+                        <a href="chocoaoscuras.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Reportaje</div></a>
                             <div class="title-bottom">
                                 <div class="home_title_project">ETERNAS CARRETERAS</div>
                                 <div class="home_description_project">
-                                 Durante la década comprendida entre 2009 y 2019 las vías del Chocó se beneficiaron con inversiones superiores a los 900 mil millones de pesos, de acuerdo con datos del Invías. En octubre de 2020, tras dos años de dilaciones, el actual gobierno aceptó incluir en el presupuesto nacional 720 mil millones más. Pero las principales carreteras interdepartamentales siguen siendo un recorrido de aventura para cualquiera que visite esas ricas tierras.        </p>
-                                </div>
+                                Entre 2009 y 2019 las vías del Chocó se beneficiaron con inversiones superiores a 900 mil millones de pesos, según Invías. En 2020 el actual gobierno aceptó incluir en el presupuesto nacional 720 mil millones más. Pero las principales carreteras  siguen en malas condiciones.                                </div>
                             </div>
                         </div>
                     </div>
@@ -147,15 +145,14 @@
             <div class="row">
                 <div class="col-md-8 wow fadeInLeft animated">
                     <div class="left">
-                        <h2>Acción Necesaria del Usuario</h2>
-                        <p>Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor. 
-                        Integer non dapibus diam, ac eleifend lectus.</p>
+                        <h2>¿Quieres apoyar a La Cola de Rata?</h2>
+                        <p>Con tu apoyo podremos seguir haciendo periodismo independiente.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-md-offset-1 wow fadeInRight animated">
                     <div class="baton">
-	                    <a href="#CONTACT">
-	                        <button type="button" class="btn btn-primary cs-btn">Botón</button>
+	                    <a href="https://www.lacoladerata.co/quienes-somos/donaciones/" target="blank">
+	                        <button type="button" class="btn btn-primary cs-btn">Donar</button>
 	                    </a>    
                     </div>
                 </div>

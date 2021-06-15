@@ -10,7 +10,7 @@
                 </div>
                 <div class="col-md-6 text-center">
                     <div class="footer_logo   wow fadeInUp animated">
-                        <h4 style="color: white; font-family:'Montserrat'"><b> Un proyecto de:</b><br> La Cola de Rata (el logo de la rata en nombre)</h4>
+                        <h4 style="color: white; font-family:'Montserrat'"><b> Un proyecto de:</b><br> La Cola de Rata</h4>
                         <!-- <img src="images/logo_wb.png" alt="" style="width:150px;">  -->
                     </div>
                 </div>
@@ -22,11 +22,11 @@
                     <div class="social">
                         <h2 style="color: white; font-family:'Montserrat'">Síguenos</h2>
                         <ul class="icon_list">
-                            <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                            <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                            <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href=""><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href=""><i class="fa fa-dribbble"></i></a></li>
+                            <li><a href="https://www.facebook.com/lacoladerata" target="blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/lacoladerata" target="blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://instagram.com/lacoladerata?utm_medium=copy_link" target="blank"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://youtube.com/c/Traslacoladelarata" target="blank"><i class="fa fa-youtube"></i></a></li>
+                            <li><a href="https://open.spotify.com/show/2m40sqRv5dbe1CgQzORCvG" target="blank"><i class="fa fa-spotify"></i></a></li>
                         </ul>
                     </div>
                 </div>

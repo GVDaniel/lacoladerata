@@ -25,7 +25,7 @@
                 <li><a href="penitas.php">Retorno sin garantias</a></li>
                 <li><a href="carreteras.php">Las eternas carreteras</a></li>
                 <li><a href="corrupcion.php">La corrupción no es solo del Chocó</a></li>
-                <li><a href="comic.php">Comic</a></li>
+                <!-- <li><a href="comic.php">Comic</a></li> -->
                 </ul>
             </li>
             </ul>

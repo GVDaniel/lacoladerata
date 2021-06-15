@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6{
 
 .post_title {
 	text-shadow: 10px 10px 3px #FFA798; 
-	font-size:100px;
+	font-size:80px;
 	color: #010101; 
 	font-weight: bold; 
 	font-style: italic; 
@@ -82,6 +82,30 @@ h1, h2, h3, h4, h5, h6{
 }
 .video > iframe {
 	height: 700px;
+}
+.underline {
+	padding: 15px;
+    border-bottom-right-radius: 20px;
+    font-style: italic;
+    font-weight: bold;
+	text-shadow: 4px 4px 3px #bde4e6; 
+	font-size: 30px;
+}
+.questions{
+	padding: 15px;
+	border-bottom-right-radius: 20px;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 4px 4px 3px #bde4e6;
+	font-size: 22px;
+}
+.title_post {
+	padding: 15px;
+    border-bottom-right-radius: 20px;
+    font-style: italic;
+    font-weight: bold;
+	text-shadow: 4px 4px 3px #bde4e6; 
+	font-size: 40px;
 }
 @media (max-width:1200px) {
 	.home_title {
@@ -241,11 +265,23 @@ h1, h2, h3, h4, h5, h6{
 	.underline {
 		font-size: 16px !important;
 	}
+	.questions{
+		padding: 12px;
+	}
+	.title_post {
+		padding: 15px;
+		border-bottom-right-radius: 20px;
+		font-style: italic;
+		font-weight: bold;
+		text-shadow: 4px 4px 3px #bde4e6; 
+		font-size: 20px;
+	}
 }
 #header_home{
 	background-size: cover !important;
 	background-repeat: no-repeat;
 	background: url(../images/portada-choco.gif);
+	height: 900px;
 }
 
 #header_common{
@@ -592,8 +628,8 @@ font-family: monospace;
 	transition: all 1s;
 }
 .cs-btn:hover{
-	background: #9FF4A5;
-	border-color: #9FF4A5;
+	background: #00858E;
+	border-color: #00858E;
 }
 .call_to_action .container{
 	padding-bottom: 60px;
@@ -713,12 +749,4 @@ letter-spacing: 0px;
 	text-transform:uppercase;
 	font-weight:700;
 	text-decoration:none;
-}
-.underline {
-	padding: 15px;
-    border-bottom-right-radius: 20px;
-    font-style: italic;
-    font-weight: bold;
-	text-shadow: 4px 4px 3px #bde4e6; 
-	font-size: 20px;
 }
