@@ -272,6 +272,12 @@ h1, h2, h3, h4, h5, h6{
 	height: 900px;
 }
 
+#header_enfermar{
+	background: url(../images/enfermeria.png);
+    background-size: cover;
+	height: 900px;
+}
+
 #header_comic{
 	background: url(../images/comic.png);
     background-size: cover;

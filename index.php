@@ -3,7 +3,7 @@
 <?php include 'includes/head.php'; ?>
 <body>
 <?php include 'includes/preloader.php'; ?>
-<div style="height: 80px"></div>
+<div style="height: 80px; width:100%;"></div>
 <?php include 'includes/header.php'; ?>
     <section class="about_us_area" id="ABOUT">
         <div class="container">

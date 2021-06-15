@@ -1,4 +1,4 @@
-<header id="header_penitas">
+<header id="header_enfermar">
         <div style="height: auto;">
         <?php include 'includes/nav.php'; ?>
             <div class="container">
