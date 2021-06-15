@@ -151,7 +151,7 @@
         <p class="long-text" style="text-align: justify;">
             Ocho caseríos de Nóvita sufren para acceder al servicio de energía eléctrica. Su caso no es aislado: es solo un ejemplo entre las muchas zonas remotas del Chocó, donde más de 50 mil habitantes no tienen acceso a la interconexión. Recorrido por un paisaje de abandono estatal y aislamiento que mantiene al departamento más pobre del país en medio del atraso.
         </p>
-        <h1 class="underline">El problema de los territorios no interconectados</h1>
+        <h1 class="title_post">El problema de los territorios no interconectados</h1>
     </div>
     <div class="col-md-6">
         <p class="long-text">
@@ -170,109 +170,7 @@
             Luego, en 2020 –entre enero y diciembre–, Enerpacific SAS recibió despachos de combustible que suman 27.940 galones de ACPM para las localidades de Santa María de Urábara, Salsita, Cocotea, Sin Olvido, Chuágara, El Chorro, Irabubú y Remolino, por un valor de $213.658.749. Según los reportes de la empresa al Sistema Único de Información de Servicios Públicos Domiciliarios, 639 pobladores resultaron beneficiados con el servicio. Además, Minenergía giró $53.400.285 más en el primer trimestre y otros $51.371.352 en el segundo trimestre de 2020 para subsanar costos operativos, como el mantenimiento de las plantas.
         </p>
 
-
-        <!-- Carousel container -->
-        <div id="fotos1" class="carousel slide" data-ride="carousel" style="width:100%;margin:auto; text-align: center;">
-
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#fotos1" data-slide-to="0" class="active"></li>
-                <li data-target="#fotos1" data-slide-to="1"></li>
-                <li data-target="#fotos1" data-slide-to="2"></li>
-                <li data-target="#fotos1" data-slide-to="3"></li>
-                <li data-target="#fotos1" data-slide-to="4"></li>
-                <li data-target="#fotos1" data-slide-to="5"></li>
-                <li data-target="#fotos1" data-slide-to="6"></li>
-                <li data-target="#fotos1" data-slide-to="7"></li>
-                <li data-target="#fotos1" data-slide-to="8"></li>
-                <li data-target="#fotos1" data-slide-to="9"></li>
-                <li data-target="#fotos1" data-slide-to="10"></li>
-                <li data-target="#fotos1" data-slide-to="11"></li>
-                <li data-target="#fotos1" data-slide-to="12"></li>
-            </ol>
-
-            <!-- Content -->
-            <div class="carousel-inner" role="listbox">
-
-                <div class="item active">
-                    <img src="./images/especial1/documentos/001Recrusos a ENERPACIFIC 4 trimestre 2019.png" alt="Recursos a Enerpacific 4 trimestre">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/01-Recursos a ENERPACIFIC enero 2020.png" alt="Rob Roy Glacier">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/02-Recursos a ENERPACIFIC febrero 2020.png" alt="">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/03-Recursos a ENERPACIFIC marzo 2020.png" alt="">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/04-Recursos a ENERPACIFIC abril 2020.png" alt="">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/05-Recursos a ENERPACIFIC mayo 2020.png" alt="">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/06-Recursos a ENERPACIFIC junio 2020.png" alt="">
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/07-Recursos a ENERPACIFIC julio 2020.png" alt="">
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/08-Recursos a ENERPACIFIC agosto 2020.png" alt="">
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/09-Recursos a ENERPACIFIC septiembre 2020.png" alt="">
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/10-Recursos a ENERPACIFIC octubre 2020.png" alt="">
-                </div>
-                
-                <div class="item">
-                    <img src="./images/especial1/documentos/11-Recursos a ENERPACIFIC noviembre 2020.png" alt="">
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/12-Recursos a ENERPACIFIC octubre 02 2020 (segundo trimestre).png" alt="">
-                </div>
-
-            </div>
-
-        </div>
+        <embed src="./images/especial1/documentos/recursos.pdf" type="application/pdf" width="100%" height="600px" />
         
         <p class="long-text">
         Pero la comunidad asegura que estos recursos no se vieron reflejados en lo que ellos llaman “un servicio aceptable”. Aunque Enerpacific comenzó a recibir giros por la prestación de servicio en la región del Alto Tamaná desde enero de 2019, las plantas sólo llegaron a la zona en noviembre de ese año, porque el transporte debía hacerse en canoas por el río y los contratistas argumentan que el nivel del agua no permitía la entrada de las embarcaciones. Una vez en funcionamiento, las plantas comenzaron a fallar y a presentar múltiples problemas.

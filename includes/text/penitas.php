@@ -21,9 +21,6 @@
         <li data-target="#fotos_choco" data-slide-to="7"></li>
         <li data-target="#fotos_choco" data-slide-to="8"></li>
         <li data-target="#fotos_choco" data-slide-to="9"></li>
-        <li data-target="#fotos_choco" data-slide-to="10"></li>
-        <li data-target="#fotos_choco" data-slide-to="11"></li>
-        <li data-target="#fotos_choco" data-slide-to="12"></li>
     </ol>
 
     <!-- Content -->
@@ -31,64 +28,34 @@
 
         <div class="item active">
             <img src="./images/penitas/fotos/1.jpg" alt="Rio Ingará, San José del Palmar">
-            <div class="carousel-caption">
-                <h3>Rio Ingará, San José del Palmar</h3>
-                <p>La geografía chocoana es abrupta y a muchos caseríos solo se llega por ríos o por trochas entre la selva</p>
-            </div>
         </div>
 
         <div class="item">
             <img src="./images/penitas/fotos/2.jpg" alt="Casa chocoana">
-            <div class="carousel-caption">
-                <h3>Casa chocoana</h3>
-                <p>Según Planeación Nacional, la pobreza multidimensional afecta al 70% de la población del departamento y en algunos municipios alcanza el 90%</p>
-            </div>
         </div>
 
         <div class="item">
             <img src="./images/penitas/fotos/3.jpg" alt="Santa María de Urábara">
-            <div class="carousel-caption">
-                <h3>Santa María de Urábara</h3>
-                <p>Es un corregimiento de Nóvita en las selvas del Alto Tamaná</p>
-            </div>
         </div>
 
         <div class="item">
             <img src="./images/penitas/fotos/4.jpg" alt="Máquina de Enerpacific SAS">
-            <div class="carousel-caption">
-                <h3>Máquina de Enerpacific SAS</h3>
-                <p>ENERPACIFIC SAS instaló 8 plantas eléctricas en la región, sin embargo las fallas en el servicio son constantes</p>
-            </div>
         </div>
 
         <div class="item">
             <img src="./images/penitas/fotos/5.jpg" alt="Casa de Madera en Urábara">
-            <div class="carousel-caption">
-                <h3>Casa de Madera en Urábara</h3>
-            </div>
         </div>
 
         <div class="item">
             <img src="./images/penitas/fotos/6.jpg" alt="Gissela sonríe en las penumbras de una casa">
-            <div class="carousel-caption">
-                <h4>Gissela sonríe en las penumbras de una casa</h4>
-            </div>
         </div>
 
         <div class="item">
             <img src="./images/penitas/fotos/7.jpg" alt="Vivienda sin energía">
-            <div class="carousel-caption">
-                <h3>Vivienda sin energía</h3>
-                <p>Algunos habitantes han comprado páneles solares o plantas de gasolina</p>
-            </div>
         </div>
 
         <div class="item">
             <img src="./images/penitas/fotos/8.jpg" alt="En Urábara no hay servicios básicos">
-            <div class="carousel-caption">
-                <h3>En Urábara no hay servicios básicos</h3>
-                <p>No cuentan con puesto de salud, ni agua potable, ni acceso a la energía eléctrica</p>
-            </div>
         </div>
 
         <div class="item">
@@ -103,21 +70,19 @@
 
     </div>
     </div>
+<div class="parallax"></div>
 </div>
 
 <div class="pd-container">
     <div class="col-md-12 text-center" id="TEXT">
         <p class="long-text" style="text-align: justify; font-style: italic;">
-            “…lo que nosotros queremos es que nos traigan educación, salud, saneamiento básico, que es lo que realmente las comunidades quieren y necesitan”, dice Amparo Murillo, líder chocoana.
-        </p>
-        <h1 class="underline">El problema de los territorios no interconectados</h1>
+        Comunidades que han vivido en medio de enfrentamientos entre el Ejército colombiano y grupos armados ilegales, no tienen garantías para retornar. Pese a que existe una Ley de víctimas (1448 de 2011) que aplica a sus situaciones, lo único que hace el gobierno nacional es militarizar más la región.        </p>
+        <h1 class="title_post">Retorno sin garantías</h1>
     </div>
     <div class="col-md-6">
-        <p class="long-text">
-            <h1 class="underline">Escribe / Camilo Alzate – Fotografía / Santiago Ramírez – Ilustra / Stella Maris</h1>
+        <p class="long-text">            
             “Fue horrible. Yo estaba en la ventana de mi casa cuando escuché un silbido que iba pasando, tuvimos que retroceder, fue algo feo”, relata Freddy Palacios al lado del San Juan, mientras sostiene la punta de una bala calibre punto 50 más larga que su dedo pulgar. La bala quedó incrustada en una de las casas aledañas.
-            <br><br>
-            Freddy vive en el caserío Peñitas, del municipio de Litoral del San Juan, en Chocó. Peñitas es una hilera de viviendas de madera en un recodo del río que forma una larga curva. Volteando esa curva queda Pangalita, la comunidad indígena donde ocurrieron los combates entre la Armada y guerrilleros del Ejército de Liberación Nacional el 5 de noviembre del año pasado, hechos denunciados por este medio en colaboración con La Liga Contra el Silencio  <a href="link">(ver)</a>.
+            Freddy vive en el caserío Peñitas, del municipio de Litoral del San Juan, en Chocó. Peñitas es una hilera de viviendas de madera en un recodo del río que forma una larga curva. Volteando esa curva queda Pangalita, la comunidad indígena donde ocurrieron los combates entre la Armada y guerrilleros del Ejército de Liberación Nacional el 5 de noviembre del año pasado, hechos denunciados por este medio en colaboración con La Liga Contra el Silencio  <a href="https://ligacontraelsilencio.com/2021/01/20/la-guerra-oculta-del-rio-san-juan/" target="blanl">(ver)</a>.
             <br><br>
             Según los pobladores, ocho helicópteros y un barco nodriza de la Armada ametrallaron las orillas sin discriminar civiles, viviendas y botes. Una docena de casas en Peñitas resultaron con daños en sus techos por las balas, algo que nuestro equipo pudo comprobar sobre el terreno.
             <br><br>
@@ -131,7 +96,6 @@
             <br><br>
             “La administración hizo unos acuerdos con la comunidad que no configuran un plan de retorno y ni siquiera los ha cumplido al día de hoy”, asegura Melisa Torres, una abogada que acompaña y asesora a la comunidad. “En el retorno deben estar vinculadas todas las instituciones del Sistema de Atención a las Víctimas que sean necesarias para garantizarlo en condiciones reales de dignidad y seguridad”. Carlino Moreno, alcalde municipal, aseguró a este medio que el tema ya fue solventado pues los habitantes se encuentran de nuevo en su caserío.
             <br><br>
-            <img src="./images/penitas/fotos/casas.png" alt="" width="100%">
         </p>
 
     <br>
@@ -144,8 +108,8 @@
     </div>
 
     <div class="col-md-6">
-        <p class="long-text">
-            <h1 class="underline">CHARAMBIRÁ: OTRA COMUNIDAD EN RIESGO</h1>
+            <h1 class="underline">Charambirá: otra comunidad en riesgo</h1>
+            <p class="long-text">
             Tres semanas después del retorno a Peñitas ocurrió un nuevo desplazamiento masivo en la comunidad de Charambirá y Los Esteros. Charambirá es un caserío de pescadores próximo al mar, sobre un brazo del San Juan que se desprende varios kilómetros antes de Docordó formando una de las siete bocas del río en su desembocadura al Pacífico.
             <br><br>
             “El 13 de enero llegaron a matar a una persona cerca, luego se fueron a meter donde estábamos nosotros, entonces ahí fue que los cogieron a todos ellos [los pescadores]”, dice una de las vecinas que prefiere no ser grabada ni fotografiada. Una banda paramilitar amenazó a los pobladores, les prohibió salir a las faenas del mar y ocupar ciertas zonas de la playa. 18 familias se desplazaron a Docordó, 11 más a Buenaventura, en donde aún permanecen.
@@ -162,3 +126,18 @@
     </div>
 </div>
 </div>
+<style>
+.parallax {
+  /* The image used */
+  background-image: url("./images/penitas/fotos/casas.png");
+
+  /* Set a specific height */
+  height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
