@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="" href="#"><img src="images/logo_wb.png" alt="" width="200px"></a>
+            <a class="" href="https://www.lacoladerata.co/" target="blank"><img src="images/logo_wb.png" alt="" width="200px"></a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -19,7 +19,7 @@
                 <ul class="dropdown-menu">
                 <li><a href="#HOME"></li>
                 <li><a href="chocoaoscuras.php">Chocó a oscuras</a></li>
-                <li><a href="enfermar.php">Enfermar en el río San Juan</a></li>
+                <li><a href="enfermar.php">Enfermarse en el río San Juan</a></li>
                 <!-- <li><a href="clanes.php">Clanes</a></li>
                 <li><a href="educacion.php">Educación</a></li> -->
                 <li><a href="penitas.php">Retorno sin garantias</a></li>

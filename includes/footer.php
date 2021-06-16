@@ -22,11 +22,11 @@
                     <div class="social">
                         <h2 style="color: white; font-family:'Montserrat'">Síguenos</h2>
                         <ul class="icon_list">
-                            <li><a href="https://www.facebook.com/lacoladerata" target="blank"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="https://twitter.com/lacoladerata" target="blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://instagram.com/lacoladerata?utm_medium=copy_link" target="blank"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="https://youtube.com/c/Traslacoladelarata" target="blank"><i class="fa fa-youtube"></i></a></li>
-                            <li><a href="https://open.spotify.com/show/2m40sqRv5dbe1CgQzORCvG" target="blank"><i class="fa fa-spotify"></i></a></li>
+                            <li><a href="https://www.facebook.com/lacoladerata" target="blank"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://twitter.com/lacoladerata" target="blank"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="https://instagram.com/lacoladerata?utm_medium=copy_link" target="blank"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="https://youtube.com/c/Traslacoladelarata" target="blank"><i class="fab fa-youtube"></i></a></li>
+                            <li><a href="https://open.spotify.com/show/2m40sqRv5dbe1CgQzORCvG" target="blank"><i class="fab fa-spotify"></i></a></li>
                         </ul>
                     </div>
                 </div>

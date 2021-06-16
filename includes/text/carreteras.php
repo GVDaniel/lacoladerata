@@ -1,11 +1,11 @@
 <div class="col-md-12">
-    <div class="video text-center" style="padding: 70px; background-color: #bde4e6;">
+    <div class="video text-center">
         <iframe src="https://www.youtube.com/embed/gtaRXJpQWko" style="-webkit-box-shadow: 9px 10px 15px 5px rgba(0,0,0,0.31); box-shadow: 9px 10px 15px 5px rgba(0,0,0,0.31);" width="90%" height="600" allowfullscreen></iframe>
     </div>
 </div>
 
 <div class="col-md-12">
-    <div class="video text-center" style="padding: 70px; background-color: #ffc857;">
+    <div class="gallery text-center">
 
     <!-- Carousel container -->
     <div id="fotos_choco" class="carousel slide" data-ride="carousel" style="width:100%;margin:auto; text-align: center;">
@@ -85,7 +85,7 @@
         </p>
             <img src="images/carreteras/bocadillo.png" width="100%">
     <br>
-        <div class="col-md-12 text-center">
+        <div class="col-md-12 text-center display-none">
             <div class="scroll_down">
             <a href="#TEXT"><img src="images/scroll.png" alt=""></a>
                 <h4>Volver Arriba</h4>

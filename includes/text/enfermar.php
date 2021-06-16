@@ -1,6 +1,6 @@
 <div class="col-md-12">
     <div class="video text-center">
-    <!-- <iframe width="90%" src="https://www.youtube.com/embed/TKnEiTtQoJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     -->
+        <iframe width="90%" src="https://www.youtube.com/embed/7BUUSTWFX0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -104,7 +104,7 @@
 </div>
 
 <div class="pd-container">
-    <div class="col-md-6">
+    <div class="col-md-6" id="TEXT">
     <br><br><br>
         <p class="long-text">
             Pedro Nel Caicedo podría estar vivo, empujando su canoa y rozando su platanera, si no hubiera nacido en Cocové, una aldea de veinte casas sobre el barranco en la margen derecha del río San Juan. Pedro Nel presentó síntomas de problemas cerebrales que jamás pudo tratarse: el hospital más cercano a Cocové es el Eduardo Santos de Istmina, una ciudad a cinco horas en lancha rápida río arriba. El pasaje en la línea que hace el recorrido todos los días oscila entre los 80.000 y 100.000 pesos. En bote particular este costo se triplica.
@@ -115,7 +115,7 @@
         </p>
         <iframe id="iframepdf" src="./images/enfermar/documentos/estados_financieros.pdf" width="100%" height="600px"></iframe>
     <br>
-        <div class="col-md-12 text-center">
+        <div class="col-md-12 text-center display-none">
             <div class="scroll_down">
             <a href="#TEXT"><img src="images/scroll.png" alt=""></a>
                 <h4>Volver Arriba</h4>
@@ -137,5 +137,6 @@
             A través de los Planes de Desarrollo con Enfoque Territorial (PDET), formulados después de los acuerdos de paz de La Habana, las comunidades plantearon la necesidad de infraestructura en salud y de lanchas ambulancias que pudieran sacar los pacientes más graves del río, según le explicó a este medio Felipe Martínez, representante del Consejo Comunitario General del San Juan, la mayor organización afrocolombiana de la zona.
         </p>
     </div>
+    <br><br>
 </div>
 </div>

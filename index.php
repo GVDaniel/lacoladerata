@@ -52,33 +52,37 @@
         </div>
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-6 no_padding">
-                    <div class="single_image">
-                        <img src="images/aoscuras.png" alt="">
-                        <div class="image_overlay">
-                        <a href="chocoaoscuras.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Reportaje</div></a>
-                            <div class="title-bottom">
-                                <div class="home_title_project">CHOCÓ A OSCURAS</div>
-                                <div class="home_description_project">
-                                    Ocho caseríos de Nóvita sufren para acceder al servicio de energía eléctrica. Su caso no es aislado: es solo un ejemplo entre las muchas zonas remotas del Chocó, donde más de 50 mil habitantes no tienen acceso a la interconexión. Recorrido por un paisaje de abandono estatal y aislamiento que mantiene al departamento más pobre del país en medio del atraso.
+                <a href="chocoaoscuras.php">
+                    <div class="col-md-6 no_padding">
+                        <div class="single_image">
+                            <img src="images/aoscuras.png" alt="">
+                            <div class="image_overlay">
+                            <div class="badge-post">Reportaje</div>
+                                <div class="title-bottom">
+                                    <div class="home_title_project">CHOCÓ A OSCURAS</div>
+                                    <div class="home_description_project">
+                                        Ocho caseríos de Nóvita sufren para acceder al servicio de energía eléctrica. Su caso no es aislado: es solo un ejemplo entre las muchas zonas remotas del Chocó, donde más de 50 mil habitantes no tienen acceso a la interconexión. Recorrido por un paisaje de abandono estatal y aislamiento que mantiene al departamento más pobre del país en medio del atraso.
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-6 no_padding">
-                    <div class="single_image">
-                        <img src="images/enfermeria.png" alt="">
-                        <div class="image_overlay">
-                        <a href="enfermar.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Reportaje</div></a>
-                            <div class="title-bottom">
-                            <div class="home_title_project">Enfermar en el río San Juan</div>
-                            <div class="home_description_project">
-                            En la región del río San Juan, comprendida por los municipios de Tadó, Istmina, Medio San Juan, Sipí y Litoral del San Juan la cobertura en salud es nula e insuficiente, allí se evidencian los malos manejos administrativos y la destrucción de la poca infraestructura sanitaria que existía.                            </div>
+                </a>
+                <a href="enfermar.php">
+                    <div class="col-md-6 no_padding">
+                        <div class="single_image">
+                            <img src="images/enfermeria.png" alt="">
+                            <div class="image_overlay">
+                            <div class="badge-post">Reportaje</div>
+                                <div class="title-bottom">
+                                <div class="home_title_project">Enfermar en el río San Juan</div>
+                                <div class="home_description_project">
+                                En la región del río San Juan, comprendida por los municipios de Tadó, Istmina, Medio San Juan, Sipí y Litoral del San Juan la cobertura en salud es nula e insuficiente, allí se evidencian los malos manejos administrativos y la destrucción de la poca infraestructura sanitaria que existía.                            </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </a>
             </div>
             <!-- <div class="row pad_top">
                 <div class="col-md-12 no_padding">
@@ -97,46 +101,52 @@
                 </div>
             </div> -->
             <div class="row pad_top">
-                <div class="col-md-4 no_padding">
-                    <div class="single_image">
-                        <img src="images/penitas.png" alt="">
-                        <div class="image_overlay">
-                        <a href="chocoaoscuras.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Reportaje</div></a>
-                            <div class="title-bottom">
-                                <div class="home_title_project">PEÑITAS Y CARAMBIRÁ</div>
-                                <div class="home_description_project">
-                                Estas comunidades que han vivido en medio de enfrentamientos entre el Ejército colombiano y grupos armados ilegales, no tienen garantías para retornar. Pese a que existe una Ley de víctimas (1448 de 2011) que aplica a sus situaciones, lo único que hace el gobierno nacional es militarizar más la región.                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 no_padding">
-                    <div class="single_image">
-                        <img src="images/carreteras.png" alt="">
-                        <div class="image_overlay">
-                        <a href="chocoaoscuras.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Reportaje</div></a>
-                            <div class="title-bottom">
-                                <div class="home_title_project">ETERNAS CARRETERAS</div>
-                                <div class="home_description_project">
-                                Entre 2009 y 2019 las vías del Chocó se beneficiaron con inversiones superiores a 900 mil millones de pesos, según Invías. En 2020 el actual gobierno aceptó incluir en el presupuesto nacional 720 mil millones más. Pero las principales carreteras  siguen en malas condiciones.                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 no_padding">
-                    <div class="single_image">
-                        <img src="images/entrevista.png" alt="">
-                        <div class="image_overlay">
-                        <a href="chocoaoscuras.php"><div style="color:black; background-color: #ffc857 !important; padding: 1px; padding-left: 5px; padding-right: 5px;">Entrevista</div></a>
-                            <div class="title-bottom">
-                                <div class="home_title_project">LA CORRUPCIÓN NO ES SOLO DEL CHOCÓ</div>
-                                <div class="home_description_project">
-                                El veterano periodista Jorge Salgado, director del semanario Chocó 7 Días, fue uno de los líderes del comité que organizó los paros cívicos de 2016 y 2017 en el Chocó. Historia, política, coyuntura, de todo ello conversamos con él en su casa de Quibdó.
+                <a href="penitas.php">
+                    <div class="col-md-4 no_padding">
+                        <div class="single_image">
+                            <img src="images/penitas.png" alt="">
+                            <div class="image_overlay">
+                            <div class="badge-post">Reportaje</div>
+                                <div class="title-bottom">
+                                    <div class="home_title_project">PEÑITAS Y CARAMBIRÁ</div>
+                                    <div class="home_description_project">
+                                    Estas comunidades que han vivido en medio de enfrentamientos entre el Ejército colombiano y grupos armados ilegales, no tienen garantías para retornar. Pese a que existe una Ley de víctimas (1448 de 2011) que aplica a sus situaciones, lo único que hace el gobierno nacional es militarizar más la región.                                </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </a>
+                <a href="carreteras.php">
+                    <div class="col-md-4 no_padding">
+                        <div class="single_image">
+                            <img src="images/carreteras.png" alt="">
+                            <div class="image_overlay">
+                            <div class="badge-post">Reportaje</div>
+                                <div class="title-bottom">
+                                    <div class="home_title_project">ETERNAS CARRETERAS</div>
+                                    <div class="home_description_project">
+                                    Entre 2009 y 2019 las vías del Chocó se beneficiaron con inversiones superiores a 900 mil millones de pesos, según Invías. En 2020 el actual gobierno aceptó incluir en el presupuesto nacional 720 mil millones más. Pero las principales carreteras  siguen en malas condiciones.                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a href="corrupcion.php">
+                    <div class="col-md-4 no_padding">
+                        <div class="single_image">
+                            <img src="images/entrevista.png" alt="">
+                            <div class="image_overlay">
+                            <div class="badge-post">Entrevista</div>
+                                <div class="title-bottom">
+                                    <div class="home_title_project">LA CORRUPCIÓN NO ES SOLO DEL CHOCÓ</div>
+                                    <div class="home_description_project">
+                                    El veterano periodista Jorge Salgado, director del semanario Chocó 7 Días, fue uno de los líderes del comité que organizó los paros cívicos de 2016 y 2017 en el Chocó. Historia, política, coyuntura, de todo ello conversamos con él en su casa de Quibdó.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                 </a>
             </div>           
         </div>
     </section>

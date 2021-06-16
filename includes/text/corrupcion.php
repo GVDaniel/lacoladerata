@@ -15,35 +15,35 @@
     <!-- Content -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <div class="carousel-caption">
+            <div class="carousel-caption display-none">
                 <p>Jorge Salgado ha sido corresponsal de El Tiempo y director del semanario Chocó 7 Días.</p>
             </div>
         </div>
 
         <div class="item active">
             <img src="./images/corrupcion/fotos/1.jpg" alt="">
-            <div class="carousel-caption">
+            <div class="carousel-caption display-none">
                 <p>Vía entre el Chocó y Risaralda. Después de 12 años de contratos, retrasos y prórrogas, se va a culminar su pavimentación.</p>
             </div>
         </div>
 
         <div class="item">
             <img src="./images/corrupcion/fotos/2.jpg" alt="">
-            <div class="carousel-caption">
+            <div class="carousel-caption display-none">
                 <p>Barrio junto al río Atrato en Quibdó. Más del 70% de los habitantes del departamento vive en situación de pobreza, según reconoció la Corte Constitucional en su sentencia sobre la protección del río Atrato.</p>
             </div>
         </div>
 
         <div class="item">
             <img src="./images/corrupcion/fotos/3.jpg" alt="">
-            <div class="carousel-caption">
+            <div class="carousel-caption display-none">
                 <p>El Hospital San Francisco de Asís de Quibdó es el más importante del departamento. Se encuentra al borde de la quiebra total, una crisis donde se conjuga el clientelismo de los caciques políticos, la mala administración y las inequidades de la Ley 100.</p>
             </div>
         </div>
 
         <div class="item">
             <img src="./images/corrupcion/fotos/4.jpg" alt="">
-            <div class="carousel-caption">
+            <div class="carousel-caption display-none">
                 <p>Colegio Carrasquilla, institución emblemática del Chocó. La infraestructura educativa se encuentra en pésimas condiciones en todo el departamento y su mejoramiento ha sido una de las peticiones de los paros cívicos desde principios del siglo XX.</p>
             </div>
         </div>
@@ -52,6 +52,7 @@
     </div>
     </div>
     <div class="parallax"></div>
+    <br><br>
 </div>
 
 <div class="pd-container">
@@ -91,7 +92,7 @@
         </p>
     <br>
         <div class="col-md-12 text-center">
-            <div class="scroll_down">
+            <div class="scroll_down display-none">
             <a href="#TEXT"><img src="images/scroll.png" alt=""></a>
                 <h4>Volver Arriba</h4>
             </div>

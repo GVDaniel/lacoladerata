@@ -107,7 +107,65 @@ h1, h2, h3, h4, h5, h6{
 	text-shadow: 4px 4px 3px #bde4e6; 
 	font-size: 40px;
 }
+.badge-post {
+	color: black;
+    background-color: #ffc857 !important;
+    padding: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 100px;
+    float: right;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    text-align: center;
+}
+#header_home{
+	background-size: cover !important;
+	background-repeat: no-repeat;
+	background: url(../images/portada-choco.gif);
+	height: 900px;
+}
+
+#header_common{
+	background: url(../images/aoscuras.png);
+    background-size: cover;
+	height: 900px;
+}
+
+#header_penitas{
+	background: url(../images/penitas.png);
+    background-size: cover;
+	height: 900px;
+}
+
+#header_carreteras{
+	background: url(../images/carreteras.png);
+    background-size: cover;
+	height: 900px;
+}
+
+#header_corrupcion{
+	background: url(../images/entrevista.png);
+    background-size: cover;
+	height: 900px;
+}
+
+#header_enfermar{
+	background: url(../images/enfermeria.png);
+    background-size: cover;
+	height: 900px;
+}
+
+#header_comic{
+	background: url(../images/comic.png);
+    background-size: cover;
+	height: 900px;
+}
 @media (max-width:1200px) {
+	.display-none {
+		display: none;
+	}
 	.home_title {
 		text-shadow: 3px 3px 3px #FFA798; 
 		font-size:60px;
@@ -190,7 +248,7 @@ h1, h2, h3, h4, h5, h6{
 
 @media (max-width:368px) {
 	.parallax {
-		width: 370px !important;
+		background-size: 400px !important;
 	}
 	.navbar-fixed-top, .navbar-fixed-bottom {
 		padding-right: 20px !important;
@@ -211,6 +269,9 @@ h1, h2, h3, h4, h5, h6{
 	}
 	#header_corrupcion{
 		height: 300px !important;
+	}
+	#header_enfermar{
+		height: 200px !important;
 	}
 	#header_comic{
 		height: 300px !important;
@@ -286,48 +347,6 @@ h1, h2, h3, h4, h5, h6{
 		text-shadow: 4px 4px 3px #bde4e6; 
 		font-size: 20px;
 	}
-}
-#header_home{
-	background-size: cover !important;
-	background-repeat: no-repeat;
-	background: url(../images/portada-choco.gif);
-	height: 900px;
-}
-
-#header_common{
-	background: url(../images/aoscuras.png);
-    background-size: cover;
-	height: 900px;
-}
-
-#header_penitas{
-	background: url(../images/penitas.png);
-    background-size: cover;
-	height: 900px;
-}
-
-#header_carreteras{
-	background: url(../images/carreteras.png);
-    background-size: cover;
-	height: 900px;
-}
-
-#header_corrupcion{
-	background: url(../images/entrevista.png);
-    background-size: cover;
-	height: 900px;
-}
-
-#header_enfermar{
-	background: url(../images/enfermeria.png);
-    background-size: cover;
-	height: 900px;
-}
-
-#header_comic{
-	background: url(../images/comic.png);
-    background-size: cover;
-	height: 900px;
 }
 .section_overlay{
 	background: rgba(250,250,250, .5);
