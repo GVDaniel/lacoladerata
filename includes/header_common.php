@@ -1,5 +1,5 @@
 <header id="header_common">
-        <div style="height: auto;">
+        <div>
         <?php include 'includes/nav.php'; ?>
             <div class="container">
                 <div class="row">

@@ -1,6 +1,6 @@
 <div class="col-md-12">
     <div class="video text-center">
-    <iframe width="90%" src="https://www.youtube.com/embed/TKnEiTtQoJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+    <!-- <iframe width="90%" src="https://www.youtube.com/embed/TKnEiTtQoJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     -->
     </div>
 </div>
 
@@ -21,49 +21,80 @@
         <li data-target="#fotos_choco" data-slide-to="7"></li>
         <li data-target="#fotos_choco" data-slide-to="8"></li>
         <li data-target="#fotos_choco" data-slide-to="9"></li>
+        <li data-target="#fotos_choco" data-slide-to="10"></li>
+        <li data-target="#fotos_choco" data-slide-to="11"></li>
+        <li data-target="#fotos_choco" data-slide-to="12"></li>
+        <li data-target="#fotos_choco" data-slide-to="13"></li>
+        <li data-target="#fotos_choco" data-slide-to="14"></li>
+        <li data-target="#fotos_choco" data-slide-to="15"></li>
+        <li data-target="#fotos_choco" data-slide-to="16"></li>
     </ol>
 
     <!-- Content -->
     <div class="carousel-inner" role="listbox">
 
         <div class="item active">
-            <img src="./images/penitas/fotos/1.jpg" alt="Rio Ingará, San José del Palmar">
+            <img src="./images/enfermar/fotos/1.jpg" alt="Rio Ingará, San José del Palmar">
         </div>
 
         <div class="item">
-            <img src="./images/penitas/fotos/2.jpg" alt="Casa chocoana">
+            <img src="./images/enfermar/fotos/2.jpg" alt="Casa chocoana">
         </div>
 
         <div class="item">
-            <img src="./images/penitas/fotos/3.jpg" alt="Santa María de Urábara">
+            <img src="./images/enfermar/fotos/3.jpg" alt="Santa María de Urábara">
         </div>
 
         <div class="item">
-            <img src="./images/penitas/fotos/4.jpg" alt="Máquina de Enerpacific SAS">
+            <img src="./images/enfermar/fotos/4.jpg" alt="Máquina de Enerpacific SAS">
         </div>
 
         <div class="item">
-            <img src="./images/penitas/fotos/5.jpg" alt="Casa de Madera en Urábara">
+            <img src="./images/enfermar/fotos/5.jpg" alt="Casa de Madera en Urábara">
         </div>
 
         <div class="item">
-            <img src="./images/penitas/fotos/6.jpg" alt="Gissela sonríe en las penumbras de una casa">
+            <img src="./images/enfermar/fotos/6.jpg" alt="Gissela sonríe en las penumbras de una casa">
         </div>
 
         <div class="item">
-            <img src="./images/penitas/fotos/7.jpg" alt="Vivienda sin energía">
+            <img src="./images/enfermar/fotos/7.jpg" alt="Vivienda sin energía">
         </div>
 
         <div class="item">
-            <img src="./images/penitas/fotos/8.jpg" alt="En Urábara no hay servicios básicos">
+            <img src="./images/enfermar/fotos/8.jpg" alt="En Urábara no hay servicios básicos">
         </div>
 
         <div class="item">
-            <img src="./images/penitas/fotos/9.jpg" alt="Niño">
+            <img src="./images/enfermar/fotos/9.jpg" alt="Niño">
         </div>
 
         <div class="item">
-            <img src="./images/penitas/fotos/10.jpg" alt="">
+            <img src="./images/enfermar/fotos/10.jpg" alt="">
+        </div>
+
+        <div class="item">
+            <img src="./images/enfermar/fotos/11.jpg" alt="">
+        </div>
+
+        <div class="item">
+            <img src="./images/enfermar/fotos/12.jpg" alt="">
+        </div>
+
+        <div class="item">
+            <img src="./images/enfermar/fotos/13.jpg" alt="">
+        </div>
+
+        <div class="item">
+            <img src="./images/enfermar/fotos/14.jpg" alt="">
+        </div>
+
+        <div class="item">
+            <img src="./images/enfermar/fotos/15.jpg" alt="">
+        </div>
+
+        <div class="item">
+            <img src="./images/enfermar/fotos/16.jpg" alt="">
         </div>
 
     </div>

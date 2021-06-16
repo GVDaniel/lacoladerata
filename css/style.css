@@ -189,6 +189,16 @@ h1, h2, h3, h4, h5, h6{
 }
 
 @media (max-width:368px) {
+	.parallax {
+		width: 370px !important;
+	}
+	.navbar-fixed-top, .navbar-fixed-bottom {
+		padding-right: 20px !important;
+		max-width: 370px !important;
+	}
+	#header_home{
+		height: 560px !important;
+	}
 	#header_common{
 		height: 300px !important;
 	}
@@ -281,7 +291,7 @@ h1, h2, h3, h4, h5, h6{
 	background-size: cover !important;
 	background-repeat: no-repeat;
 	background: url(../images/portada-choco.gif);
-	height: 675px;
+	height: 900px;
 }
 
 #header_common{

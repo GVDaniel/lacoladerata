@@ -83,7 +83,7 @@
             <br><br>
             Uno de ellos, Luis Fernando Solarte, fue quién declaró en una entrevista en octubre de 2017 que su familia se sentía “orgullosa” por haber logrado “unir al Chocó” con Colombia aportando “al progreso y bienestar de sus habitantes”. Lo que no contó Luis Fernando Solarte es que Metrocorredores 8 incurrió en múltiples retrasos e incumplimientos de los contratos, y también tuvo denuncias de la comunidad de Tutunendo, en la vía Medellín – Quibdó, por actos racistas y atropellos contra los trabajadores.
         </p>
-            <img src="images/carreteras/bocadillo.png"
+            <img src="images/carreteras/bocadillo.png" width="100%">
     <br>
         <div class="col-md-12 text-center">
             <div class="scroll_down">

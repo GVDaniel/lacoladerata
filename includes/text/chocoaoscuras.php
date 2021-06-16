@@ -169,7 +169,7 @@
             <br><br>
             Luego, en 2020 –entre enero y diciembre–, Enerpacific SAS recibió despachos de combustible que suman 27.940 galones de ACPM para las localidades de Santa María de Urábara, Salsita, Cocotea, Sin Olvido, Chuágara, El Chorro, Irabubú y Remolino, por un valor de $213.658.749. Según los reportes de la empresa al Sistema Único de Información de Servicios Públicos Domiciliarios, 639 pobladores resultaron beneficiados con el servicio. Además, Minenergía giró $53.400.285 más en el primer trimestre y otros $51.371.352 en el segundo trimestre de 2020 para subsanar costos operativos, como el mantenimiento de las plantas.
         </p>
-
+    <div class="help_text">Resoluciones de pago mensual</div>
         <embed src="./images/especial1/documentos/recursos.pdf" type="application/pdf" width="100%" height="600px" />
         
         <p class="long-text">
@@ -217,107 +217,8 @@
         <br><br>
         </p><br>
         <!-- Carousel container -->
-        <div id="fotos2" class="carousel slide" data-ride="carousel" style="width:100%;margin:auto; text-align: center;">
-
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#fotos2" data-slide-to="0" class="active"></li>
-                <li data-target="#fotos2" data-slide-to="1"></li>
-                <li data-target="#fotos2" data-slide-to="2"></li>
-                <li data-target="#fotos2" data-slide-to="3"></li>
-                <li data-target="#fotos2" data-slide-to="4"></li>
-                <li data-target="#fotos2" data-slide-to="5"></li>
-                <li data-target="#fotos2" data-slide-to="6"></li>
-                <li data-target="#fotos2" data-slide-to="7"></li>
-                <li data-target="#fotos2" data-slide-to="8"></li>
-                <li data-target="#fotos2" data-slide-to="9"></li>
-                <li data-target="#fotos2" data-slide-to="10"></li>
-                <li data-target="#fotos2" data-slide-to="11"></li>
-                <li data-target="#fotos2" data-slide-to="12"></li>
-            </ol>
-
-            <!-- Content -->
-            <div class="carousel-inner" role="listbox">
-
-                <div class="item active">
-                    <img src="./images/especial1/documentos/001Recrusos a ENERPACIFIC 4 trimestre 2019.png" alt="Recursos a Enerpacific 4 trimestre">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/01-Recursos a ENERPACIFIC enero 2020.png" alt="Rob Roy Glacier">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/02-Recursos a ENERPACIFIC febrero 2020.png" alt="">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/03-Recursos a ENERPACIFIC marzo 2020.png" alt="">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/04-Recursos a ENERPACIFIC abril 2020.png" alt="">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/05-Recursos a ENERPACIFIC mayo 2020.png" alt="">
-                    <div class="carousel-caption">
-                        <h3>Recursos a Enerpacific 4 trimestre</h3>
-                        <p>Descripción</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/06-Recursos a ENERPACIFIC junio 2020.png" alt="">
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/07-Recursos a ENERPACIFIC julio 2020.png" alt="">
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/08-Recursos a ENERPACIFIC agosto 2020.png" alt="">
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/09-Recursos a ENERPACIFIC septiembre 2020.png" alt="">
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/10-Recursos a ENERPACIFIC octubre 2020.png" alt="">
-                </div>
-                
-                <div class="item">
-                    <img src="./images/especial1/documentos/11-Recursos a ENERPACIFIC noviembre 2020.png" alt="">
-                </div>
-
-                <div class="item">
-                    <img src="./images/especial1/documentos/12-Recursos a ENERPACIFIC octubre 02 2020 (segundo trimestre).png" alt="">
-                </div>
-
-            </div>
-
-        </div>
+        <div class="help_text">Giros a EMCOLEN en Riosucio</div>
+        <embed src="./images/especial1/documentos/resoluciones.pdf" type="application/pdf" width="100%" height="600px" />
         <br>
         <p class="long-text">
         “Hicimos un documento, lo pasamos a la Alcaldía, lo pasamos a la Personería”, aclara el concejal Asprilla. “A través de esa presión fue que volvieron a mandar el combustible, pero las plantas no están en servicio”.
@@ -352,107 +253,7 @@
         <br>
         
         <!-- Carousel container -->
-    <div id="fotos3" class="carousel slide" data-ride="carousel" style="width:100%;margin:auto; text-align: center;">
-
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-        <li data-target="#fotos3" data-slide-to="0" class="active"></li>
-        <li data-target="#fotos3" data-slide-to="1"></li>
-        <li data-target="#fotos3" data-slide-to="2"></li>
-        <li data-target="#fotos3" data-slide-to="3"></li>
-        <li data-target="#fotos3" data-slide-to="4"></li>
-        <li data-target="#fotos3" data-slide-to="5"></li>
-        <li data-target="#fotos3" data-slide-to="6"></li>
-        <li data-target="#fotos3" data-slide-to="7"></li>
-        <li data-target="#fotos3" data-slide-to="8"></li>
-        <li data-target="#fotos3" data-slide-to="9"></li>
-        <li data-target="#fotos3" data-slide-to="10"></li>
-        <li data-target="#fotos3" data-slide-to="11"></li>
-        <li data-target="#fotos3" data-slide-to="12"></li>
-    </ol>
-
-    <!-- Content -->
-    <div class="carousel-inner" role="listbox">
-
-        <div class="item active">
-            <img src="./images/especial1/documentos/001Recrusos a ENERPACIFIC 4 trimestre 2019.png" alt="Recursos a Enerpacific 4 trimestre">
-            <div class="carousel-caption">
-                <h3>Recursos a Enerpacific 4 trimestre</h3>
-                <p>Descripción</p>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/01-Recursos a ENERPACIFIC enero 2020.png" alt="Rob Roy Glacier">
-            <div class="carousel-caption">
-                <h3>Recursos a Enerpacific 4 trimestre</h3>
-                <p>Descripción</p>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/02-Recursos a ENERPACIFIC febrero 2020.png" alt="">
-            <div class="carousel-caption">
-                <h3>Recursos a Enerpacific 4 trimestre</h3>
-                <p>Descripción</p>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/03-Recursos a ENERPACIFIC marzo 2020.png" alt="">
-            <div class="carousel-caption">
-                <h3>Recursos a Enerpacific 4 trimestre</h3>
-                <p>Descripción</p>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/04-Recursos a ENERPACIFIC abril 2020.png" alt="">
-            <div class="carousel-caption">
-                <h3>Recursos a Enerpacific 4 trimestre</h3>
-                <p>Descripción</p>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/05-Recursos a ENERPACIFIC mayo 2020.png" alt="">
-            <div class="carousel-caption">
-                <h3>Recursos a Enerpacific 4 trimestre</h3>
-                <p>Descripción</p>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/06-Recursos a ENERPACIFIC junio 2020.png" alt="">
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/07-Recursos a ENERPACIFIC julio 2020.png" alt="">
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/08-Recursos a ENERPACIFIC agosto 2020.png" alt="">
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/09-Recursos a ENERPACIFIC septiembre 2020.png" alt="">
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/10-Recursos a ENERPACIFIC octubre 2020.png" alt="">
-        </div>
-        
-        <div class="item">
-            <img src="./images/especial1/documentos/11-Recursos a ENERPACIFIC noviembre 2020.png" alt="">
-        </div>
-
-        <div class="item">
-            <img src="./images/especial1/documentos/12-Recursos a ENERPACIFIC octubre 02 2020 (segundo trimestre).png" alt="">
-        </div>
-
-    </div>
-
-    </div>
+        <embed src="./images/especial1/documentos/giros.pdf" type="application/pdf" width="100%" height="600px" />
 
         <p class="long-text">
         Sin embargo, pobladores y líderes de varios poblados aseguraron que hay lugares donde las plantas ni siquiera fueron instaladas. Eso ocurre por ejemplo en los caseríos de Truandó Medio y Dos Bocas, según informó Angel Ciro Rengifo Mosquera, representante legal del Consejo Comunitario. En otros caseríos el Minenergía giró subsidios a lo largo de todo el 2020, pero las plantas apenas se adecuaron a finales de año, como contó a este medio Abraham Mosquera, presidente del Consejo Comunitario de La Nueva, donde la planta llegó en diciembre, mientras que al poblado de Clavellino llegó en noviembre. En la Zona Humanitaria Nueva Vida, una localidad apartada del río Cacarica, la lideresa local Ana del Carmen Martínez confirmó que la planta ya ajusta más de siete meses averiada mientras la empresa sigue cobrando los subsidios.
