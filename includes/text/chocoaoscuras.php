@@ -225,7 +225,7 @@
         “Hicimos un documento, lo pasamos a la Alcaldía, lo pasamos a la Personería”, aclara el concejal Asprilla. “A través de esa presión fue que volvieron a mandar el combustible, pero las plantas no están en servicio”.
         </p><br>
 
-        <embed src="./images/especial1/documentos/Carta al alcalde de Nóvita.pdf" type="application/pdf" width="100%" height="600px" />
+        <embed src="./images/especial1/documentos/carta.pdf" type="application/pdf" width="100%" height="600px" />
 
         <p class="long-text">
         Enerpacific reportó al Minenergía haber entregado cada mes más de 350 galones de ACPM a la comunidad de Urábara. “Nos dijeron que el ACPM para esta comunidad estaba estipulado en 5 tambores mensuales (275 galones), y cuando llegó fue incompleto”, asegura Domingo Perea, uno de los habitantes que alcanzó a recoger dos veces el envío de combustible en La Guayacana, la carretera más cercana, a tres horas de camino cruzando la selva. “Desde marzo dejó de llegar el ACPM hasta noviembre”, añade. En el mejor de los casos la comunidad recibió despachos de 275 galones –es decir, cinco “tambores” de 55 galones–, y no los 350 que la empresa reportó y cobró cada mes.
