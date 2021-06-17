@@ -75,7 +75,7 @@
                             <div class="image_overlay">
                             <div class="badge-post">Reportaje</div>
                                 <div class="title-bottom">
-                                <div class="home_title_project">Enfermar en el río San Juan</div>
+                                <div class="home_title_project">Enfermarse en el río San Juan</div>
                                 <div class="home_description_project">
                                 En la región del río San Juan, comprendida por los municipios de Tadó, Istmina, Medio San Juan, Sipí y Litoral del San Juan la cobertura en salud es nula e insuficiente, allí se evidencian los malos manejos administrativos y la destrucción de la poca infraestructura sanitaria que existía.                            </div>
                                 </div>
@@ -108,7 +108,7 @@
                             <div class="image_overlay">
                             <div class="badge-post">Reportaje</div>
                                 <div class="title-bottom">
-                                    <div class="home_title_project">PEÑITAS Y CARAMBIRÁ</div>
+                                    <div class="home_title_project">PEÑITAS Y CHARAMBIRÁ</div>
                                     <div class="home_description_project">
                                     Estas comunidades que han vivido en medio de enfrentamientos entre el Ejército colombiano y grupos armados ilegales, no tienen garantías para retornar. Pese a que existe una Ley de víctimas (1448 de 2011) que aplica a sus situaciones, lo único que hace el gobierno nacional es militarizar más la región.                                </div>
                                 </div>
@@ -156,7 +156,10 @@
                 <div class="col-md-8 wow fadeInLeft animated">
                     <div class="left">
                         <h2>¿Quieres apoyar a La Cola de Rata?</h2>
-                        <p>Con tu apoyo podremos seguir haciendo periodismo independiente.</p>
+                        <p>“con tu apoyo podremos seguir haciendo periodismo
+                            independiente” por “Con tus donaciones respaldas al periodismo
+                            independiente.
+                        </p>
                     </div>
                 </div>
                 <div class="col-md-3 col-md-offset-1 wow fadeInRight animated">

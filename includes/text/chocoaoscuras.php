@@ -170,9 +170,9 @@
             <br><br>
             Luego, en 2020 –entre enero y diciembre–, Enerpacific SAS recibió despachos de combustible que suman 27.940 galones de ACPM para las localidades de Santa María de Urábara, Salsita, Cocotea, Sin Olvido, Chuágara, El Chorro, Irabubú y Remolino, por un valor de $213.658.749. Según los reportes de la empresa al Sistema Único de Información de Servicios Públicos Domiciliarios, 639 pobladores resultaron beneficiados con el servicio. Además, Minenergía giró $53.400.285 más en el primer trimestre y otros $51.371.352 en el segundo trimestre de 2020 para subsanar costos operativos, como el mantenimiento de las plantas.
         </p>
-    <div class="help_text">Resoluciones de pago mensual</div>
+    <div class="help_text">“Recursos, pagos y giros</div>
         <embed src="./images/especial1/documentos/recursos.pdf" type="application/pdf" width="100%" height="600px" />
-        
+        <br><br>
         <p class="long-text">
         Pero la comunidad asegura que estos recursos no se vieron reflejados en lo que ellos llaman “un servicio aceptable”. Aunque Enerpacific comenzó a recibir giros por la prestación de servicio en la región del Alto Tamaná desde enero de 2019, las plantas sólo llegaron a la zona en noviembre de ese año, porque el transporte debía hacerse en canoas por el río y los contratistas argumentan que el nivel del agua no permitía la entrada de las embarcaciones. Una vez en funcionamiento, las plantas comenzaron a fallar y a presentar múltiples problemas.
         </p>
@@ -200,10 +200,12 @@
         Desde hace años los subsidios para las zonas no interconectadas se han incrementado progresivamente. Mientras en 2014 fueron 227 mil millones de pesos, en 2018 alcanzaron hasta 288 mil millones y en 2019 fueron algo más de 250 mil millones. Las fluctuaciones varían según aumenta o baja el costo de los combustibles y también cuando algunas localidades dejan de recibir subsidios porque logran la interconexión con el sistema nacional. Sipí, en el Chocó, fue la última de ellas: el municipio se conectó tras varios años de retraso con una línea que bordea el río San Juan desde Istmina hasta San Miguel.
         <br><br>
         “Uno con el desespero de que las cosas le lleguen a la comunidad, se veían muy bonitas, bien pintaditas, creíamos que eran nuevas”, asegura Rogelio Asprilla, concejal del municipio de Nóvita y habitante de Urábara que conoció el proceso de instalación. “Pero cuando las fuimos usando vimos que no eran de primera”. La planta de Urábara operó cuatro meses, según explicó Ambrosio Hurtado, uno de los vecinos que trató de repararla. La planta instalada en la comunidad Sin Olvido funcionó tres meses y luego fue “un daño tras otro”, según dice Ana Hurtado Mosquera, una de las habitantes. Harold Fernando Sánchez, presidente del consejo comunitario del caserío Cocotea, confirmó a su vez que la planta instalada en su vereda sólo funcionó dos meses.
-        <br>
-        <br>
         </p>
-    <br>
+        <p class="long-text">
+        Además, hubo inconsistencias con los despachos de ACPM para las plantas. Enerpacific interrumpió los envíos entre marzo y noviembre de 2020, pero Minenergía pagaba sus giros habituales.
+        <br><br>
+        </p><br>
+    <br><br><br>
         <div class="col-md-12 text-center display-none">
             <div class="scroll_down">
             <a href="#TEXT"><img src="images/scroll.png" alt=""></a>
@@ -213,20 +215,15 @@
     </div>
 
     <div class="col-md-6">
-        <p class="long-text">
-        Además, hubo inconsistencias con los despachos de ACPM para las plantas. Enerpacific interrumpió los envíos entre marzo y noviembre de 2020, pero Minenergía pagaba sus giros habituales.
-        <br><br>
-        </p><br>
-        <!-- Carousel container -->
-        <div class="help_text">Giros a EMCOLEN en Riosucio</div>
+        <div class="help_text">Resoluciones de pago mensual</div>
         <embed src="./images/especial1/documentos/resoluciones.pdf" type="application/pdf" width="100%" height="600px" />
-        <br>
+        <br><br>
         <p class="long-text">
         “Hicimos un documento, lo pasamos a la Alcaldía, lo pasamos a la Personería”, aclara el concejal Asprilla. “A través de esa presión fue que volvieron a mandar el combustible, pero las plantas no están en servicio”.
         </p><br>
 
         <embed src="./images/especial1/documentos/carta.pdf" type="application/pdf" width="100%" height="600px" />
-
+        <br><br>
         <p class="long-text">
         Enerpacific reportó al Minenergía haber entregado cada mes más de 350 galones de ACPM a la comunidad de Urábara. “Nos dijeron que el ACPM para esta comunidad estaba estipulado en 5 tambores mensuales (275 galones), y cuando llegó fue incompleto”, asegura Domingo Perea, uno de los habitantes que alcanzó a recoger dos veces el envío de combustible en La Guayacana, la carretera más cercana, a tres horas de camino cruzando la selva. “Desde marzo dejó de llegar el ACPM hasta noviembre”, añade. En el mejor de los casos la comunidad recibió despachos de 275 galones –es decir, cinco “tambores” de 55 galones–, y no los 350 que la empresa reportó y cobró cada mes.
         <br><br>
@@ -255,7 +252,7 @@
         
         <!-- Carousel container -->
         <embed src="./images/especial1/documentos/giros.pdf" type="application/pdf" width="100%" height="600px" />
-
+        <br><br>
         <p class="long-text">
         Sin embargo, pobladores y líderes de varios poblados aseguraron que hay lugares donde las plantas ni siquiera fueron instaladas. Eso ocurre por ejemplo en los caseríos de Truandó Medio y Dos Bocas, según informó Angel Ciro Rengifo Mosquera, representante legal del Consejo Comunitario. En otros caseríos el Minenergía giró subsidios a lo largo de todo el 2020, pero las plantas apenas se adecuaron a finales de año, como contó a este medio Abraham Mosquera, presidente del Consejo Comunitario de La Nueva, donde la planta llegó en diciembre, mientras que al poblado de Clavellino llegó en noviembre. En la Zona Humanitaria Nueva Vida, una localidad apartada del río Cacarica, la lideresa local Ana del Carmen Martínez confirmó que la planta ya ajusta más de siete meses averiada mientras la empresa sigue cobrando los subsidios.
         </p><br>
@@ -269,16 +266,13 @@
         <br><br>
         “Nosotros somos los más estropeados toda una vida, los más olvidados del gobierno”, concluyó Santos Lemus, líder de El Chorro, una de los poblados en Nóvita afectados por la falta del servicio, “acá sólo vienen a estafarnos con mentiras”.
     </p>
+    <br><br>
     </div>
 </div>
 <style>
 .parallax {
   /* The image used */
   background-image: url("./images/casa_azul.png");
-
-  /* Set a specific height */
-  height: 500px;
-
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;

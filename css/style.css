@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6{
 }
 .gallery {
 	padding: 70px;
-	background-color: #ffc857;
+	background-color: #424242;
 }
 .video > iframe {
 	height: 700px;
@@ -161,6 +161,9 @@ h1, h2, h3, h4, h5, h6{
 	background: url(../images/comic.png);
     background-size: cover;
 	height: 900px;
+}
+.parallax {
+	height: 500px;
 }
 @media (max-width:1200px) {
 	.display-none {
@@ -249,6 +252,14 @@ h1, h2, h3, h4, h5, h6{
 @media (max-width:368px) {
 	.parallax {
 		background-size: 400px !important;
+		height: 170px !important;
+	}
+	.video {
+		padding: 0px;
+		background-color: transparent;
+	}
+	.video > iframe {
+		width: 100%;
 	}
 	.navbar-fixed-top, .navbar-fixed-bottom {
 		padding-right: 20px !important;
@@ -266,6 +277,9 @@ h1, h2, h3, h4, h5, h6{
 	
 	#header_carreteras{
 		height: 300px !important;
+		width: 100%;
+		background-size: contain;
+		background-repeat: no-repeat;
 	}
 	#header_corrupcion{
 		height: 300px !important;
@@ -334,7 +348,7 @@ h1, h2, h3, h4, h5, h6{
 		padding: 5px;
 	}
 	.underline {
-		font-size: 16px !important;
+		font-size: 22px !important;
 	}
 	.questions{
 		padding: 12px;
@@ -345,7 +359,7 @@ h1, h2, h3, h4, h5, h6{
 		font-style: italic;
 		font-weight: bold;
 		text-shadow: 4px 4px 3px #bde4e6; 
-		font-size: 20px;
+		font-size: 25px;
 	}
 }
 .section_overlay{
@@ -428,13 +442,12 @@ background-color: #2d3334;
 	text-align: justify;
 }
 .long-text{
-	font-size: 24px;
-	font-weight: 100;
-	color: #272727;
-	line-height: 1.5;
-	text-align: justify;
-	padding-left: 20px;
-	padding-right: 20px;
+	font-size: 18px;
+    color: #272727;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 21px;
+    text-align: justify;
 }
 .long-text-img{
 	width: 100%;

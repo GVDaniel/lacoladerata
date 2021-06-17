@@ -129,7 +129,7 @@
         <h1 class="questions">¿Es una narrativa para culpar a los chocoanos del atraso en su departamento?</h1>
         <p class="long-text">
         Siempre. Y no solamente con el Chocó, pasa en todas las regiones. Es una forma de esconder, y surgen mitos como que la vía a Pereira no la han pavimentado porque se la ha robado tantas veces el gobernador, que no tiene nada que ver en eso, como no tienen que ver en la interconexión eléctrica. Duque se baja del avión y lo primero que dice es que “Chocó es prioridad para el gobierno”, uno puede buscar cuando Pastrana o Uribe o Santos dijeron lo mismo, es la frase que todos repiten.
-        </p>
+        </p><br><br>
     </div>
 </div>
 </div>
@@ -137,10 +137,6 @@
 .parallax {
   /* The image used */
   background-image: url("./images/choco.png");
-
-  /* Set a specific height */
-  height: 500px;
-
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;

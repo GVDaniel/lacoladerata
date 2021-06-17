@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="" href="https://www.lacoladerata.co/" target="blank"><img src="images/logo_wb.png" alt="" width="200px"></a>
+            <a class="" href="https://lacoladerata.co/ojoalacorrupcion/choco/index.php" target="blank"><img src="images/logo_wb.png" alt="" width="200px"></a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

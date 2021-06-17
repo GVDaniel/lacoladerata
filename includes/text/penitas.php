@@ -95,13 +95,13 @@
             <br><br>
             El 23 de diciembre de 2020 la comunidad retornó a Peñitas por sus propios medios. Los animales se habían perdido, también quedaron daños en casas y cultivos. Según la ley 1448 cuando un desplazamiento incluye más de diez familias la declaración es colectiva y el acompañamiento estatal para el retorno debe hacerse de manera integral. Nada de esto ha ocurrido, más allá de las ayudas de la alcaldía, que proporcionó algo de gasolina para los botes que hicieron el trayecto de dos horas río arriba, rumbo al pueblo.
             <br><br>
-            “La administración hizo unos acuerdos con la comunidad que no configuran un plan de retorno y ni siquiera los ha cumplido al día de hoy”, asegura Melisa Torres, una abogada que acompaña y asesora a la comunidad. “En el retorno deben estar vinculadas todas las instituciones del Sistema de Atención a las Víctimas que sean necesarias para garantizarlo en condiciones reales de dignidad y seguridad”. Carlino Moreno, alcalde municipal, aseguró a este medio que el tema ya fue solventado pues los habitantes se encuentran de nuevo en su caserío.
+            “La administración hizo unos acuerdos con la comunidad que no configuran un plan de retorno y ni siquiera los ha cumplido al día de hoy”, asegura Melisa Torres, una abogada que acompaña y asesora a la comunidad. 
             <br><br>
         </p>
 
     <br>
         <div class="col-md-12 text-center">
-            <div class="scroll_down">
+            <div class="scroll_down display-none">
             <a href="#TEXT"><img src="images/scroll.png" alt=""></a>
                 <h4>Volver Arriba</h4>
             </div>
@@ -111,6 +111,8 @@
     <div class="col-md-6">
             <h1 class="underline">Charambirá: otra comunidad en riesgo</h1>
             <p class="long-text">
+            “En el retorno deben estar vinculadas todas las instituciones del Sistema de Atención a las Víctimas que sean necesarias para garantizarlo en condiciones reales de dignidad y seguridad”. Carlino Moreno, alcalde municipal, aseguró a este medio que el tema ya fue solventado pues los habitantes se encuentran de nuevo en su caserío.
+            <br><br>
             Tres semanas después del retorno a Peñitas ocurrió un nuevo desplazamiento masivo en la comunidad de Charambirá y Los Esteros. Charambirá es un caserío de pescadores próximo al mar, sobre un brazo del San Juan que se desprende varios kilómetros antes de Docordó formando una de las siete bocas del río en su desembocadura al Pacífico.
             <br><br>
             “El 13 de enero llegaron a matar a una persona cerca, luego se fueron a meter donde estábamos nosotros, entonces ahí fue que los cogieron a todos ellos [los pescadores]”, dice una de las vecinas que prefiere no ser grabada ni fotografiada. Una banda paramilitar amenazó a los pobladores, les prohibió salir a las faenas del mar y ocupar ciertas zonas de la playa. 18 familias se desplazaron a Docordó, 11 más a Buenaventura, en donde aún permanecen.
@@ -131,9 +133,6 @@
 .parallax {
   /* The image used */
   background-image: url("./images/penitas/fotos/casas.png");
-
-  /* Set a specific height */
-  height: 500px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;

@@ -97,6 +97,10 @@
             <img src="./images/enfermar/fotos/16.jpg" alt="">
         </div>
 
+        <div class="item">
+            <img src="./images/enfermar/fotos/17.jpg" alt="">
+        </div>
+
     </div>
 
     </div>
