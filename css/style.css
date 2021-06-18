@@ -74,11 +74,11 @@ h1, h2, h3, h4, h5, h6{
 }
 .video {
 	padding: 70px;
-	background-color: #bde4e6;
+	background-color: #424242;
 }
 .gallery {
 	padding: 70px;
-	background-color: #424242;
+	background-color: #ffc857;
 }
 .video > iframe {
 	height: 700px;
@@ -165,10 +165,10 @@ h1, h2, h3, h4, h5, h6{
 .parallax {
 	height: 500px;
 }
+.display-yes {
+	display: none;
+}
 @media (max-width:1200px) {
-	.display-none {
-		display: none;
-	}
 	.home_title {
 		text-shadow: 3px 3px 3px #FFA798; 
 		font-size:60px;
@@ -250,6 +250,12 @@ h1, h2, h3, h4, h5, h6{
 }
 
 @media (max-width:368px) {
+	.display-none {
+		display: none;
+	}
+	.display-yes {
+		display:contents;
+	}
 	.parallax {
 		background-size: 400px !important;
 		height: 170px !important;
@@ -276,7 +282,7 @@ h1, h2, h3, h4, h5, h6{
 	}
 	
 	#header_carreteras{
-		height: 300px !important;
+		height: 200px !important;
 		width: 100%;
 		background-size: contain;
 		background-repeat: no-repeat;

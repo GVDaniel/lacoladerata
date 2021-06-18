@@ -156,9 +156,7 @@
                 <div class="col-md-8 wow fadeInLeft animated">
                     <div class="left">
                         <h2>¿Quieres apoyar a La Cola de Rata?</h2>
-                        <p>“con tu apoyo podremos seguir haciendo periodismo
-                            independiente” por “Con tus donaciones respaldas al periodismo
-                            independiente.
+                        <p>"Con tus donaciones respaldas al periodismo independiente".
                         </p>
                     </div>
                 </div>

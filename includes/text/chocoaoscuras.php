@@ -163,15 +163,18 @@
             María Esperanza pasó la Navidad a oscuras, igual que el resto de habitantes en Urábara, corregimiento del municipio de Nóvita, Chocó, entre la selva y las montañas del alto río Tamaná. Esta es una de las 500 localidades del departamento no interconectadas al sistema eléctrico nacional, donde 50.971 habitantes acceden al servicio eléctrico gracias a plantas de generación con diésel, según datos oficiales de la Superintendencia de Servicios Públicos. Pero la realidad contradice a las estadísticas oficiales.
         </p>
         <div class="help-text">Para conocer el panorama de la interconexión eléctrica en el Chocó explora el mapa interactivo a continuación.</div><br>
-        <iframe frameborder="0" width="100%" height="700px" src="https://view.genial.ly/5ffb6dd1bbfc130d6680febc" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe>
+        <iframe style="overflow: hidden; min-height:800px;" frameborder="0" width="100%" height="700px" src="https://view.genial.ly/5ffb6dd1bbfc130d6680febc" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe>
 
         <p class="long-text">
             La mayor parte de los años 2019 y 2020, Urábara y otros siete caseríos del Alto Tamaná estuvieron sin servicio de energía eléctrica a pesar de que los recursos para la operación de las plantas fueron girados oportunamente desde el Ministerio de Minas y Energía (Minergía) a Enerpacific SAS, la empresa operadora. Según la Superintendencia de Servicios Públicos, Enerpacific SAS recibió $466.214.131 en subsidios durante 2019 por ocho localidades de Nóvita donde debe prestar el servicio.
             <br><br>
             Luego, en 2020 –entre enero y diciembre–, Enerpacific SAS recibió despachos de combustible que suman 27.940 galones de ACPM para las localidades de Santa María de Urábara, Salsita, Cocotea, Sin Olvido, Chuágara, El Chorro, Irabubú y Remolino, por un valor de $213.658.749. Según los reportes de la empresa al Sistema Único de Información de Servicios Públicos Domiciliarios, 639 pobladores resultaron beneficiados con el servicio. Además, Minenergía giró $53.400.285 más en el primer trimestre y otros $51.371.352 en el segundo trimestre de 2020 para subsanar costos operativos, como el mantenimiento de las plantas.
         </p>
-    <div class="help_text">“Recursos, pagos y giros</div>
-        <embed src="./images/especial1/documentos/recursos.pdf" type="application/pdf" width="100%" height="600px" />
+    <div class="help_text ">Recursos, pagos y giros</div>
+    <iframe class="scribd_iframe_embed" title="Recursos, Pagos y Giros" src="https://www.scribd.com/embeds/512140040/content?start_page=1&view_mode=scroll&access_key=key-bKq8uVsGcqKQYjoxzYeB" tabindex="0" data-auto-height="true" data-aspect-ratio="1.2941176470588236" scrolling="no" width="100%" height="600" frameborder="0"></iframe>
+        <div class="display-yes">
+            <a href="./images/especial1/documentos/recursos.pdf" download>Visualizar documento</a>
+        </div>
         <br><br>
         <p class="long-text">
         Pero la comunidad asegura que estos recursos no se vieron reflejados en lo que ellos llaman “un servicio aceptable”. Aunque Enerpacific comenzó a recibir giros por la prestación de servicio en la región del Alto Tamaná desde enero de 2019, las plantas sólo llegaron a la zona en noviembre de ese año, porque el transporte debía hacerse en canoas por el río y los contratistas argumentan que el nivel del agua no permitía la entrada de las embarcaciones. Una vez en funcionamiento, las plantas comenzaron a fallar y a presentar múltiples problemas.
@@ -204,10 +207,10 @@
         <p class="long-text">
         Además, hubo inconsistencias con los despachos de ACPM para las plantas. Enerpacific interrumpió los envíos entre marzo y noviembre de 2020, pero Minenergía pagaba sus giros habituales.
         <br><br>
-        </p><br>
-    <br><br><br>
+        </p>
         <div class="col-md-12 text-center display-none">
             <div class="scroll_down">
+            <br><br><br>
             <a href="#TEXT"><img src="images/scroll.png" alt=""></a>
                 <h4>Volver Arriba</h4>
             </div>
@@ -216,13 +219,19 @@
 
     <div class="col-md-6">
         <div class="help_text">Resoluciones de pago mensual</div>
-        <embed src="./images/especial1/documentos/resoluciones.pdf" type="application/pdf" width="100%" height="600px" />
+        <p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Resoluciones de Pago Mensual on Scribd" href="https://www.scribd.com/document/512153790/Resoluciones-de-Pago-Mensual#from_embed"  style="text-decoration: underline;" >Resoluciones de Pago Mensual</a> by <a title="View Multimedial La Cola de Rata's profile on Scribd" href="https://www.scribd.com/user/554161462/Multimedial-La-Cola-de-Rata#from_embed"  style="text-decoration: underline;" >Multimedial La Cola de Rata</a> on Scribd</p><iframe class="scribd_iframe_embed" title="Resoluciones de Pago Mensual" src="https://www.scribd.com/embeds/512153790/content?start_page=1&view_mode=scroll&access_key=key-Vrbofi9EmdHhRFkKwe1b" data-auto-height="false" data-aspect-ratio="1.2941176470588236" scrolling="no" id="doc_84289" width="100%" height="600" frameborder="0"></iframe>
+        <div class="display-yes">
+            <a href="./images/especial1/documentos/resoluciones.pdf" download>Visualizar documento</a>
+        </div>
         <br><br>
         <p class="long-text">
         “Hicimos un documento, lo pasamos a la Alcaldía, lo pasamos a la Personería”, aclara el concejal Asprilla. “A través de esa presión fue que volvieron a mandar el combustible, pero las plantas no están en servicio”.
         </p><br>
 
-        <embed src="./images/especial1/documentos/carta.pdf" type="application/pdf" width="100%" height="600px" />
+        <p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Carta Al Alcalde de Nóvita on Scribd" href="https://www.scribd.com/document/512156038/Carta-Al-Alcalde-de-Novita#from_embed"  style="text-decoration: underline;" >Carta Al Alcalde de Nóvita</a> by <a title="View Multimedial La Cola de Rata's profile on Scribd" href="https://www.scribd.com/user/554161462/Multimedial-La-Cola-de-Rata#from_embed"  style="text-decoration: underline;" >Multimedial La Cola de Rata</a> on Scribd</p><iframe class="scribd_iframe_embed" title="Carta Al Alcalde de Nóvita" src="https://www.scribd.com/embeds/512156038/content?start_page=1&view_mode=scroll&access_key=key-ne8nG3DrFUUgHAQqRoGG" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_87307" width="100%" height="600" frameborder="0"></iframe>
+        <div class="display-yes">
+            <a href="./images/especial1/documentos/carta.pdf" download>Visualizar documento</a>
+        </div>
         <br><br>
         <p class="long-text">
         Enerpacific reportó al Minenergía haber entregado cada mes más de 350 galones de ACPM a la comunidad de Urábara. “Nos dijeron que el ACPM para esta comunidad estaba estipulado en 5 tambores mensuales (275 galones), y cuando llegó fue incompleto”, asegura Domingo Perea, uno de los habitantes que alcanzó a recoger dos veces el envío de combustible en La Guayacana, la carretera más cercana, a tres horas de camino cruzando la selva. “Desde marzo dejó de llegar el ACPM hasta noviembre”, añade. En el mejor de los casos la comunidad recibió despachos de 275 galones –es decir, cinco “tambores” de 55 galones–, y no los 350 que la empresa reportó y cobró cada mes.
@@ -249,12 +258,13 @@
 
         <div class="help-text">Giros a EMCOLEN en Riosucio</div>
         <br>
-        
-        <!-- Carousel container -->
-        <embed src="./images/especial1/documentos/giros.pdf" type="application/pdf" width="100%" height="600px" />
+        <p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Giros a EMCOLEN en Riosucio on Scribd" href="https://www.scribd.com/document/512155795/Giros-a-EMCOLEN-en-Riosucio#from_embed"  style="text-decoration: underline;" >Giros a EMCOLEN en Riosucio</a> by <a title="View Multimedial La Cola de Rata's profile on Scribd" href="https://www.scribd.com/user/554161462/Multimedial-La-Cola-de-Rata#from_embed"  style="text-decoration: underline;" >Multimedial La Cola de Rata</a> on Scribd</p><iframe class="scribd_iframe_embed" title="Giros a EMCOLEN en Riosucio" src="https://www.scribd.com/embeds/512155795/content?start_page=1&view_mode=scroll&access_key=key-HIHvAVyne2DVCLLERZjT" data-auto-height="false" data-aspect-ratio="1.2941176470588236" scrolling="no" id="doc_25175" width="100%" height="600" frameborder="0"></iframe>
+        <div class="display-yes">
+            <a href="./images/especial1/documentos/giros.pdf" download>Visualizar documento</a>
+        </div>
         <br><br>
         <p class="long-text">
-        Sin embargo, pobladores y líderes de varios poblados aseguraron que hay lugares donde las plantas ni siquiera fueron instaladas. Eso ocurre por ejemplo en los caseríos de Truandó Medio y Dos Bocas, según informó Angel Ciro Rengifo Mosquera, representante legal del Consejo Comunitario. En otros caseríos el Minenergía giró subsidios a lo largo de todo el 2020, pero las plantas apenas se adecuaron a finales de año, como contó a este medio Abraham Mosquera, presidente del Consejo Comunitario de La Nueva, donde la planta llegó en diciembre, mientras que al poblado de Clavellino llegó en noviembre. En la Zona Humanitaria Nueva Vida, una localidad apartada del río Cacarica, la lideresa local Ana del Carmen Martínez confirmó que la planta ya ajusta más de siete meses averiada mientras la empresa sigue cobrando los subsidios.
+            Sin embargo, pobladores y líderes de varios poblados aseguraron que hay lugares donde las plantas ni siquiera fueron instaladas. Eso ocurre por ejemplo en los caseríos de Truandó Medio y Dos Bocas, según informó Angel Ciro Rengifo Mosquera, representante legal del Consejo Comunitario. En otros caseríos el Minenergía giró subsidios a lo largo de todo el 2020, pero las plantas apenas se adecuaron a finales de año, como contó a este medio Abraham Mosquera, presidente del Consejo Comunitario de La Nueva, donde la planta llegó en diciembre, mientras que al poblado de Clavellino llegó en noviembre. En la Zona Humanitaria Nueva Vida, una localidad apartada del río Cacarica, la lideresa local Ana del Carmen Martínez confirmó que la planta ya ajusta más de siete meses averiada mientras la empresa sigue cobrando los subsidios.
         </p><br>
 
         <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/979306669&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
